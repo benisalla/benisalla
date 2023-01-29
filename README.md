@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**benisalla/benisalla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h1 align="center">Hi 👋🖐, I'm Ben Alla Ismail</h1>
 <h3 align="center">My first fully completed internship application at Dev-bay</h3>
 
