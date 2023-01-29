@@ -7,25 +7,30 @@
 
 <p align="left"> <a href="https://twitter.com/ismail_ben_alla" target="blank"><img src="https://img.shields.io/twitter/follow/ismail_ben_alla?logo=twitter&style=for-the-badge" alt="ismail_ben_alla" /></a> </p>
 
-- 🔭 I working on a react project [BAI-Product](not available yet)
+* 🔭 I working on a react project [BAI-Product](not available yet)
 
-- 🌱 I’m currently learning **React, React-native, asp.net, Laravel, Android, Machine Learning, Artificial Intelligence and Deep Learning As Well**
+* 🌱 I’m currently learning 
+    * React,React-native
+    * asp.net.
+    * Laravel.
+    * Android.
+    * Machine Learning, Artificial Intelligence and Deep Learning As Well.
 
-- 👯 I'm working on asp.net project [Zimb-car](not available yet)
+* 👯 I have worked on asp.net project [Zimb-car](not available yet)
+* 🤝 I have worked on laravel project [BAI-know-me](not available yet)
 
-- 🤝 I'm working on laravel project [BAI-know-me](not available yet)
+* 👨‍💻 All of my projects are available at [https://github.com/benisalla](https://github.com/benisalla)
 
-- 👨‍💻 All of my projects are available at [https://github.com/benisalla](https://github.com/benisalla)
+* 📝 I regularly write articles on [blogs here but later](blogs here but later))
 
-- 📝 I regularly write articles on [(blogs here but later)]((blogs here but later))
+* 💬 Ask me about **ML, DL, AI, Web dev, Mobile dev**
 
-- 💬 Ask me about **ML, DL, AI, Web dev, Mobile dev**
+* 📫 if you are looking to get in touch with me **ismailbenalla52@gmail.com, ismail.benalla1@usmba.ac.ma**
 
-- 📫 if you are looking to get in touch with me **ismailbenalla52@gmail.com, ismail.benalla1@usmba.ac.ma**
+* 📄 Who am I ? [(my resume herer)]((my resume herer))
 
-- 📄 Who am I ? [(my resume herer)]((my resume herer))
-
-- ⚡ Fun fact **<img width="570" alt="image" src="https://user-images.githubusercontent.com/89405673/215330098-590270ad-8dbb-4dec-af85-c85a1516f566.png">**
+* ⚡ Fun fact 
+<img width="420" alt="image" src="https://user-images.githubusercontent.com/89405673/215330098-590270ad-8dbb-4dec-af85-c85a1516f566.png">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
