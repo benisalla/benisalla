@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🖐, I'm Ben Alla Ismail</h1>
-<h3 align="center">My first fully completed internship application at Dev-bay</h3>
+<h3 align="center">I am a computer science student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benisalla&label=Profile%20views&color=0e75b6&style=flat" alt="benisalla" /> </p>
 
