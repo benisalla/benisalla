@@ -1,4 +1,4 @@
-![FittingCooperativeGoral-size _restricted ](https://user-images.githubusercontent.com/89405673/215333654-c7847320-2e6e-45e2-bad0-45430626c251.gif) 
+<img src="https://user-images.githubusercontent.com/89405673/215333654-c7847320-2e6e-45e2-bad0-45430626c251.gif" width="100%" height="70%">
 
 ## hello helo hello  
 
