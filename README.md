@@ -34,7 +34,7 @@
 </p>
 
 <p align="center">
-  <img src= "https://user-images.githubusercontent.com/89405673/215333654-c7847320-2e6e-45e2-bad0-45430626c251.gif" height='240' width='340'>
+  <img src= "https://user-images.githubusercontent.com/89405673/215333654-c7847320-2e6e-45e2-bad0-45430626c251.gif" height='340'>
 </p>
 
 
