@@ -1,14 +1,15 @@
 <img src="https://user-images.githubusercontent.com/89405673/215333654-c7847320-2e6e-45e2-bad0-45430626c251.gif" width="100%" height="70%">
 
-## hello helo hello  
+## info
 
-[![Twitter Badge ](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1) ](https://twitter.com/benisalla)  
-[![LinkedIn Badge ](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8) ](https://www.linkedin.com/in/benisalla/)  
-[![CodePen Badge ](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black) ](https://codepen.io/benisalla/) 
-[![ismail_ben_alla](https://img.shields.io/twitter/follow/ismail_ben_alla?logo=twitter&style=for-the-badge)](https://twitter.com/ismail_ben_alla)
+[![Twitter Badge ](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1) ](https://twitter.com/ismail_ben_alla)  
+[![LinkedIn Badge ](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8) ](https://www.linkedin.com/in/ismail-ben-alla-7144b5221/)  
+[![CodePen Badge ](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black) ](https://codepen.io/benisalla) <br>
 ![benisalla](https://komarev.com/ghpvc/?username=benisalla&label=Profile%20views&color=0e75b6&style=flat)
 
 [![benisalla](https://github-profile-trophy.vercel.app/?username=benisalla)](https://github.com/benisalla)
+
+
 
 ## Who Am I ?
 
