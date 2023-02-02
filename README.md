@@ -1,11 +1,4 @@
-<p style="position: relative;">
-<img src="https://user-images.githubusercontent.com/89405673/215333654-c7847320-2e6e-45e2-bad0-45430626c251.gif" width="100%" height="240px">
-
-<img src="https://user-images.githubusercontent.com/89405673/216402039-46530f44-c769-47ff-a954-b8c5f082b3d9.jpg" style="width:140px;height:140px; border-radius:70px; position: absolute;bottom:-70px;left:0">
-</p>
-<br>
-<br>
-<br>
+<img src="https://user-images.githubusercontent.com/89405673/215333654-c7847320-2e6e-45e2-bad0-45430626c251.gif" width="100%" height="250px">
 
 ## info
 
@@ -14,8 +7,8 @@
 [![CodePen Badge ](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black) ](https://codepen.io/benisalla) <br>
 ![benisalla](https://komarev.com/ghpvc/?username=benisalla&label=Profile%20views&color=0e75b6&style=flat)
 
-[![benisalla](https://github-profile-trophy.vercel.app/?username=benisalla)](https://github.com/benisalla)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=benisalla&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ## Who Am I ?
