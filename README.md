@@ -1,4 +1,46 @@
-<img src="https://user-images.githubusercontent.com/89405673/215333654-c7847320-2e6e-45e2-bad0-45430626c251.gif" width="100%" height="300px">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+</p>
+
+<h1 align="center">
+  Feel free to contact me!😊
+</h1>
+
+
+
+<p align="center">
+<a href="https://www.linkedin.com/in/ismail-ben-alla-7144b5221/">
+  <img height="50" src="https://user-images.githubusercontent.com/89405673/216443606-c84ce978-1b47-40ee-af15-8a6a6e73f2c2.gif"/>
+</a>
+
+
+
+
+<a href="https://medium.com/@ismailbenalla52">
+  <img height="50" src="https://user-images.githubusercontent.com/89405673/216440278-ec444a99-1977-4dc2-a8aa-3672ada53588.gif "/>
+</a>
+<a href="https://dev.to/benisalla">
+  <img height="50" src="https://user-images.githubusercontent.com/89405673/216436825-b8a9cf1c-aee3-435b-81e2-6fe49be0c1ef.gif"/>
+</a>
+<a href="https://twitter.com/ismail_ben_alla">
+  <img height="50" src="https://user-images.githubusercontent.com/89405673/216443253-197514d5-89fc-45b6-ad0f-77fe0a83bb69.gif"/>
+</a>
+<a href="https://www.instagram.com/ismail_ben_alla/">
+  <img height="50" src="https://user-images.githubusercontent.com/89405673/216436865-ba4eb114-c70a-459f-86dd-c6c02b062408.gif"/>
+</a>
+<a href="https://www.facebook.com/profile.php?id=100067645963518">
+  <img height="60" src="https://user-images.githubusercontent.com/89405673/216442618-1f3c3dd3-b8a6-4470-80f8-0b8ddd1ecbf2.gif"/>
+</a>
+</p>
+
+<p align="center">
+  <img src= "[https://i.giphy.com/media/q217GUnfKAmJlFcjBX/giphy.webp](https://user-images.githubusercontent.com/89405673/215333654-c7847320-2e6e-45e2-bad0-45430626c251.gif)" height='200' width='300'>
+</p>
+
+
+
+
+
 
 ## info
 
