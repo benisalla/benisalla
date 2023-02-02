@@ -37,7 +37,8 @@ Want to know more about me?  [Check out my portfolio. ](https://braydoncoyer.dev
   * 📫 if you are looking to get in touch with me: 
     * ismailbenalla52@gmail.com
     * ismail.benalla1@usmba.ac.ma 
-  * ⚡ Fun fact ![image](https://user-images.githubusercontent.com/89405673/215330098-590270ad-8dbb-4dec-af85-c85a1516f566.png)
+  * ⚡ Fun fact 
+  <img src="https://user-images.githubusercontent.com/89405673/215330098-590270ad-8dbb-4dec-af85-c85a1516f566.png" width='300' height='150'>
 
 
 -----------------------------------------------------------------------------------
