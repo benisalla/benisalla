@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text= BEN ALLA ISMAIL&height=120&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text= BEN ALLA ISMAIL&height=140&section=header"/>
 </p>
 
 <h1 align="center">
-  Feel free to contact me!😊
+  Feel free to contact me! 😊
 </h1>
 
 <p align="center">
@@ -97,5 +97,5 @@
   
   
 <p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=footer"/>
 </p>
