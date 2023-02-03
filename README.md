@@ -88,7 +88,7 @@
 
 ---
 
-<h2> 📈 &nbsp;My GitHub History! </h2>
+<h2> 😊 &nbsp;What Makes Me love Computer science! 😊</h2>
   
   
 <p align="center">
