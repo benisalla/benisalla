@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=BEN-ALLA&height=140&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=BEN-ALLA&height=140&section=header" width='100%'/>
 </p>
 
 <h1 align="center">
@@ -88,11 +88,11 @@
 
 ---
 
-<h2> 😊 &nbsp;What Makes Me love Computer science! 😊</h2>
+<h2> 😊&nbsp;What Makes Me love Computer science!😊</h2>
   
   
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/89405673/216621602-813e6eb1-d0aa-4826-a9ee-47b4408353aa.gif"/>
+  <img src="https://user-images.githubusercontent.com/89405673/216621602-813e6eb1-d0aa-4826-a9ee-47b4408353aa.gif" width='340' height='250'/>
 </p>
   
 <p align="center">
