@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text= BEN ALLA ISMAIL&height=140&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=BEN-ALLA&height=140&section=header"/>
 </p>
 
 <h1 align="center">
