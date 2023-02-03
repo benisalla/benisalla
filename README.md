@@ -73,7 +73,8 @@
     * ismailbenalla52@gmail.com
     * ismail.benalla1@usmba.ac.ma 
   * ⚡ Fun fact  <br>
-  <img src="https://user-images.githubusercontent.com/89405673/215330098-590270ad-8dbb-4dec-af85-c85a1516f566.png" width='300' height='150'>
+  <p align='center'> <img src="https://user-images.githubusercontent.com/89405673/215330098-590270ad-8dbb-4dec-af85-c85a1516f566.png" width='300' height='150'>
+</p> 
   
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
   
