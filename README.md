@@ -92,7 +92,7 @@
   
   
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/89405673/216621602-813e6eb1-d0aa-4826-a9ee-47b4408353aa.gif" width='340' height='250'/>
+  <img src="https://user-images.githubusercontent.com/89405673/216621602-813e6eb1-d0aa-4826-a9ee-47b4408353aa.gif" width='80%' height='auto'/>
 </p>
   
 <p align="center">
