@@ -95,6 +95,6 @@
   <img src="https://user-images.githubusercontent.com/89405673/216621602-813e6eb1-d0aa-4826-a9ee-47b4408353aa.gif"/>
 </p>
   
-<p align="ceneter">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=footer"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=footer" alt='footer' width='100%' />
 </p>
