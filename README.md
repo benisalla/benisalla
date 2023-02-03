@@ -89,13 +89,11 @@
 ---
 
 <h2> 📈 &nbsp;My GitHub History! </h2>
-
-
-
-![Snake animation](https://github.com/benisalla/benisalla/blob/output/github-contribution-grid-snake.svg)
   
   
-  
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=footer](https://github.com/benisalla/benisalla/blob/output/github-contribution-grid-snake.svg](https://user-images.githubusercontent.com/89405673/216621602-813e6eb1-d0aa-4826-a9ee-47b4408353aa.gif"/>
+</p>
   
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=footer"/>
