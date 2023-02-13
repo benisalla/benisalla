@@ -12,8 +12,6 @@
 </a>
 
 
-
-
 <a href="https://medium.com/@ismailbenalla52">
   <img height="50" src="https://user-images.githubusercontent.com/89405673/216440278-ec444a99-1977-4dc2-a8aa-3672ada53588.gif "/>
 </a>
@@ -27,7 +25,7 @@
   <img height="50" src="https://user-images.githubusercontent.com/89405673/216436865-ba4eb114-c70a-459f-86dd-c6c02b062408.gif"/>
 </a>
 <a href="https://www.facebook.com/profile.php?id=100067645963518">
-  <img height="60" src="https://user-images.githubusercontent.com/89405673/216442618-1f3c3dd3-b8a6-4470-80f8-0b8ddd1ecbf2.gif"/>
+  <img height="50" src="https://user-images.githubusercontent.com/89405673/216442618-1f3c3dd3-b8a6-4470-80f8-0b8ddd1ecbf2.gif"/>
 </a>
 </p>
 
