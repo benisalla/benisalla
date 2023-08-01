@@ -95,6 +95,17 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/89405673/216621602-813e6eb1-d0aa-4826-a9ee-47b4408353aa.gif" width='80%' height='auto'/>
 </p>
+
+
+<h2> 😊&nbsp;Did you know about my first love !😊</h2>
+  
+  
+<p align="center">
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/89405673/257550019-fa03ce7c-70c6-49f3-ac50-ccc4a193b96a.gif" width='80%' height='auto'/>
+</p>
+
+
+
   
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=footer" alt='footer' width='100%' />
