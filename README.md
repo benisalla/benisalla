@@ -55,26 +55,41 @@
 <h2> 👨🏻‍💻 &nbsp;My background and interests</h2>
 <br>
 
-* 🔭 I working on a react project  [BAI-Product ](not available yet)  
- * 🌱 I’m currently learning  
-    * React,React-native  
-    * asp.net.   
-    * Laravel.  
-    * Android.  
-    * Machine Learning, Artificial Intelligence and Deep Learning As Well.  
-  * 👯 I have worked on asp.net project  [Zimb-car ](not available yet)  
-  * 🤝 I have worked on laravel project  [BAI-know-me ](not available yet)
-  * 👨‍💻 All of my projects are available at  [https://github.com/benisalla ](https://github.com/benisalla)  
-  * 📝 I regularly write articles on  [blogs here but later ](blogs here but later)) 
-  * 💬 Ask me about :
-    * ML, DL, AI, Web dev, Mobile dev 
-  * 📫 if you are looking to get in touch with me: 
-    * ismailbenalla52@gmail.com
-    * ismail.benalla1@usmba.ac.ma 
-  * ⚡ Fun fact  <br>
-  <p align='center'> <img src="https://user-images.githubusercontent.com/89405673/215330098-590270ad-8dbb-4dec-af85-c85a1516f566.png" width='300' height='150'>
-</p> 
-  
+### Hi there, I'm Ismail Benalla 👋
+
+As a passionate and driven individual with a deep interest in data science and machine learning, I am committed to pursuing opportunities that will enable me to develop my skills and make a meaningful contribution to this dynamic field.
+
+I have a strong foundation in fundamental math concepts such as statistics, probabilities, and linear algebra, as well as advanced proficiency in TensorFlow, Keras, NumPy, Pandas, and R. I am continuously seeking opportunities to expand my knowledge and apply my skills in real-world contexts. My particular interests lie in computer vision and voice recognition, and I have gained practical experience through a range of projects, including Malignant Tumor Detection, Classifying Tweets and Comments, Digit Recognition, House Price Prediction, and Voice Recognition.
+
+As a creative problem-solver with a keen eye for detail, I am excited about the challenges and opportunities that lie ahead in this rapidly evolving field. I am always looking for ways to collaborate with like-minded professionals and learn from experts in the industry.
+
+### 📫 Connect with Me
+
+- Email: ismailbenalla52@gmail.com
+- University Email: ismail.benalla1@usmba.ac.ma
+
+### 💼 Check Out My Work
+
+- [GitHub Profile](https://github.com/benisalla)
+
+### 📝 Latest Articles
+
+- [Blogs (Coming Soon)](blogs here but later)
+
+### 💬 Ask Me About
+
+- Machine Learning
+- Deep Learning
+- Artificial Intelligence
+- Data Science
+- Collaborations and Learning Opportunities
+
+### ⚡ Fun Fact
+
+<p align='center'>
+  <img src="https://user-images.githubusercontent.com/89405673/215330098-590270ad-8dbb-4dec-af85-c85a1516f566.png" width='300' height='150'>
+</p>
+
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
   
 <h2> 🚀 &nbsp; techs and tools that I have used and learned</h2>
