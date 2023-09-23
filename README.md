@@ -74,7 +74,11 @@ As a creative problem-solver with a keen eye for detail, I am excited about the 
 
 ### 📝 Latest Articles
 
-- [Blogs (Coming Soon)](blogs here but later)
+- [Blogs (Coming Soon)](https://github.com/benisalla)
+
+### 📝 My Link-bio
+
+- [my link bio](https://benisalla.github.io/ismail-ben-alla-link-bio/)
 
 ### 💬 Ask Me About
 
