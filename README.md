@@ -1,11 +1,19 @@
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=BEN-ALLA&height=140&section=header" width='100%'/>
+</p>
+
+<h1 align="center">
+  Benisalla: Hey MT-GPT, Do you know your creator?
+  MT-GPT: Oh, absolutely! He brought me to freaking life. How could I forget him 😒?
+  Benisalla: Not convinced.
+  MT-GPT: Challenge accepted! 😎 Check out the proof below!
+</h1>
+
+<p align="center">
   <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/89405673/288863371-4abd63ca-ac20-40f9-a875-cdd181f888b2.png" width="100%"/>
 </p>
 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=BEN-ALLA&height=140&section=header" width='100%'/>
-</p>
 
 <h1 align="center">
   Feel free to contact me! 😊
