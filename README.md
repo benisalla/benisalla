@@ -3,15 +3,16 @@
 </p>
 
 <h1 align="center">Ismail Ben Alla</h1>
-<h3 align="center">Data Scientist | Machine Learning Enthusiast | Innovator</h3>
+<h3 align="center">Generative AI, NLP, and Computer Vision</h3>
 
 ---
 
-### 1) Who I Am
+### Who I Am
 
-I am Ismail Ben Alla, a Computer Science Engineering student at ENSA, Fès, specializing in Data Science, NLP, and Computer Vision. With a solid mathematical foundation and a keen interest in AI, I am driven by curiosity and a desire to make impactful advancements in technology. My experience spans various innovative projects and internships, leveraging modern technologies to solve complex problems.
+Hello, I'm Ismail Ben Alla, an AI Engineer with a Bachelor's degree from ENSA, Fès. I specialize in Data Science, Natural Language Processing (NLP), and Computer Vision. Armed with a solid foundation in mathematics and a profound passion for artificial intelligence, I am dedicated to developing impactful solutions.
 
 ---
+
 
 ### 2) How You Can Contact Me
 
