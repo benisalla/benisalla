@@ -44,9 +44,6 @@ Connect with me for collaboration, inquiries, or to share insights!
   </a>
 </p>
 
----
-
-Here’s a revised, simpler, and clearer version of your section:
 
 ---
 
@@ -54,16 +51,15 @@ Here’s a revised, simpler, and clearer version of your section:
 
 #### Professional Experiences
 
-- **Aritale (Jan - Jul 2024):** I worked on a system to help lawyers quickly find information in Moroccan legal documents. This was done using Llama-Index and FastAPI.
+- [**Juridia (formerly Aritale) (Jan - Jul 2024):**](https://www.linkedin.com/company/juridia-maroc/mycompany/verification/) I worked on a system to help lawyers quickly find information in Moroccan legal documents. This was done using Llama-Index and FastAPI.
 - **3D Smart Factory (2023):** I used machine learning to understand scientific articles and built systems that can detect objects in videos, using tools like PyTorch, YOLO, and OpenCV on FPGA platforms.
 - **Technocolabs Softwares (Jun - Jul 2023):** I created a system that uses TensorFlow and other tools to predict how often people will pay off their mortgage-backed securities early.
 
 #### Personal Projects
 
-- **Tiny-ViT:** I made a simple tool that uses a Vision Transformer to recognize what's in a picture. This was built using PyTorch.
-- **MT-GPT:** I developed a question-and-answer tool that talks back to you, using some advanced AI techniques.
-- **Anim-GAN:** I created a tool that makes new images of animals using a type of AI called GAN.
-
+- [**Tiny-ViT:**](https://github.com/benisalla/Tiny-ViT-Transformer-from-scratch) I made a simple tool that uses a Vision Transformer to recognize what's in a picture. This was built using PyTorch.
+- [**MT-GPT:**](https://github.com/benisalla/micro-tiny-gpt-from-scratch) I developed a question-and-answer tool that talks back to you, using some advanced AI techniques.
+- [**Anim-GAN:**](https://github.com/benisalla/anim-gen) I created a tool that makes new images of animals using a type of AI called GAN.
 
 ---
 
