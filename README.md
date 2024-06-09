@@ -65,16 +65,16 @@ Connect with me for collaboration, inquiries, or to share insights!
 
 ### 4) My MT-GPT Interaction
 
-<p align="left">
-  Benisalla: Hey MT-GPT, do you know your creator?<br>
-  MT-GPT: Oh, absolutely! He brought me to life. How could I forget him?<br>
-  Benisalla: Not convinced.<br>
-  MT-GPT: Challenge accepted! Check out the proof below!
-</p>
+Here's a fun exchange I had with MT-GPT, a chatbot I created:
 
-<p align="center">
-  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/89405673/288863371-4abd63ca-ac20-40f9-a875-cdd181f888b2.png"  width="100%"/>
-</p>
+**Benisalla:** Hey MT-GPT, do you know your creator?  
+**MT-GPT:** Oh, absolutely! He brought me to life. How could I forget him?  
+**Benisalla:** Not convinced.  
+**MT-GPT:** Challenge accepted! Check out the proof below!
+
+<div align="center">
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/89405673/288863371-4abd63ca-ac20-40f9-a875-cdd181f888b2.png" width="100%"/>
+</div>
 
 ---
 
@@ -82,8 +82,10 @@ Connect with me for collaboration, inquiries, or to share insights!
 
 #### Achievements
 
-- **Second place in IEEE R8 Entrepreneurship Initiative:** Developed a fitness app concept called 'Equinox'.
-- **121st worldwide in IEEEXtreme:** Competed globally in a hackathon, showcasing my coding and problem-solving skills.
+- **Second place in IEEE R8 Entrepreneurship Initiative:** I developed a fitness app concept called 'Equinox', which earned us second place.
+- **121st worldwide in IEEEXtreme:** I competed in this global coding and problem-solving competition, placing 121st worldwide.
+
+
 
 #### Statistical Highlights
 <p align="center">
