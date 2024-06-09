@@ -2,16 +2,17 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=BEN-ALLA%20ISMAIL&height=200&section=header" width="100%"/>
 </p>
 
-<h1 align="center">Ismail Ben Alla</h1>
-<h3 align="center">Generative AI, NLP, and Computer Vision</h3>
+<h2 align="center">Computer Science Engineer</h2>
+<h3 align="center">Specializing in Generative AI, NLP, and Computer Vision</h3>
 
 ---
 
-### Who I Am
+### About Me
 
-Hello, I'm Ismail Ben Alla, an AI Engineer with a Bachelor's degree from ENSA, Fès. I specialize in Data Science, Natural Language Processing (NLP), and Computer Vision. Armed with a solid foundation in mathematics and a profound passion for artificial intelligence, I am dedicated to developing impactful solutions.
+👋 Welcome to my profile! I'm Ismail, an AI Engineer holding a Bachelor's degree in Computer Science from ENSA, Fès. My expertise lies in Data Science, Natural Language Processing (NLP), and Computer Vision. With a robust mathematical background and a deep passion for artificial intelligence, I strive to create innovative and impactful technological solutions.
 
 ---
+
 
 
 ### 2) How You Can Contact Me
@@ -45,19 +46,24 @@ Connect with me for collaboration, inquiries, or to share insights!
 
 ---
 
+Here’s a revised, simpler, and clearer version of your section:
+
+---
+
 ### 3) More About Me
 
 #### Professional Experiences
 
-- **Aritale (Jan - Jul 2024):** Developed a RAG system for legal documents in Morocco using Llama-Index and FastAPI.
-- **3D Smart Factory (2023):** Implemented NLP to analyze scientific articles and deployed object detection models on FPGA using technologies like PyTorch, YOLO, and OpenCV.
-- **Technocolabs Softwares (Jun - Jul 2023):** Built a pipeline for analyzing mortgage-backed securities prepayment risk using TensorFlow and various data science tools.
+- **Aritale (Jan - Jul 2024):** I worked on a system to help lawyers quickly find information in Moroccan legal documents. This was done using Llama-Index and FastAPI.
+- **3D Smart Factory (2023):** I used machine learning to understand scientific articles and built systems that can detect objects in videos, using tools like PyTorch, YOLO, and OpenCV on FPGA platforms.
+- **Technocolabs Softwares (Jun - Jul 2023):** I created a system that uses TensorFlow and other tools to predict how often people will pay off their mortgage-backed securities early.
 
 #### Personal Projects
 
-- **Tiny-ViT:** Implemented a simple Vision Transformer for image recognition using PyTorch.
-- **MT-GPT:** Developed an interactive model for Q&A using transformers and LoRA.
-- **Anim-GAN:** Created generative models that produce images of animals using GAN structures.
+- **Tiny-ViT:** I made a simple tool that uses a Vision Transformer to recognize what's in a picture. This was built using PyTorch.
+- **MT-GPT:** I developed a question-and-answer tool that talks back to you, using some advanced AI techniques.
+- **Anim-GAN:** I created a tool that makes new images of animals using a type of AI called GAN.
+
 
 ---
 
