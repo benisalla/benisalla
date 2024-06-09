@@ -51,9 +51,9 @@ Connect with me for collaboration, inquiries, or to share insights!
 
 #### Professional Experiences
 
-- [**Juridia (formerly Aritale) (Jan - Jul 2024):**](https://www.linkedin.com/company/juridia-maroc/mycompany/verification/) I worked on a system to help lawyers quickly find information in Moroccan legal documents. This was done using Llama-Index and FastAPI.
-- **3D Smart Factory (2023):** I used machine learning to understand scientific articles and built systems that can detect objects in videos, using tools like PyTorch, YOLO, and OpenCV on FPGA platforms.
-- **Technocolabs Softwares (Jun - Jul 2023):** I created a system that uses TensorFlow and other tools to predict how often people will pay off their mortgage-backed securities early.
+- [**Juridia (formerly Aritale) (Jan - Jul 2024):**](https://www.juridia.ma/en/) I worked on a system to help lawyers quickly find information in Moroccan legal documents. This was done using Llama-Index and FastAPI.
+- [**3D Smart Factory (2023):**](https://3dsmartfactory.csit.ma/) I used machine learning to understand scientific articles and built systems that can detect objects in videos, using tools like PyTorch, YOLO, and OpenCV on FPGA platforms.
+- [**Technocolabs Softwares (Jun - Jul 2023):**](https://technocolabs.com/) I created a system that uses TensorFlow and other tools to predict how often people will pay off their mortgage-backed securities early.
 
 #### Personal Projects
 
