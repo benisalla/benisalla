@@ -82,6 +82,7 @@ Here's a fun exchange I had with MT-GPT, a chatbot I created:
 
 #### Achievements
 
+- **Ranked as the Top Student in the Computer Science Engineering Program at ENSA Fes, 2024:** Received a reward during my graduation from ENSA Fes.
 - **Second place in IEEE R8 Entrepreneurship Initiative:** I developed a fitness app concept called 'Equinox', which earned us second place.
 - **121st worldwide in IEEEXtreme:** I competed in this global coding and problem-solving competition, placing 121st worldwide.
 
