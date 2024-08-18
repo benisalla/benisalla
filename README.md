@@ -60,6 +60,8 @@ Connect with me for collaboration, inquiries, or to share insights!
 - [**Tiny-ViT:**](https://github.com/benisalla/Tiny-ViT-Transformer-from-scratch) I made a simple tool that uses a Vision Transformer to recognize what's in a picture. This was built using PyTorch.
 - [**MT-GPT:**](https://github.com/benisalla/micro-tiny-gpt-from-scratch) I developed a question-and-answer tool that talks back to you, using some advanced AI techniques.
 - [**Anim-GAN:**](https://github.com/benisalla/anim-gen) I created a tool that makes new images of animals using a type of AI called GAN.
+- [**MGTLR:**](https://github.com/benisalla/MGTLR) I developed an advanced music generator leveraging RNNs, LSTMs, and Transformers to delve into the capabilities of these networks in creative AI applications.
+- [**BIA-Bilingual-Net:**](https://github.com/benisalla/BIA-Bilingual-Net) BIA-BilingualNet is a versatile and robust neural network architecture designed for language-to-language translation.
 
 ---
 
