@@ -18,7 +18,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"/> About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="32" height="32" alt=""/> About Me
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="330" alt="Coding"/>
 
@@ -33,19 +33,74 @@ I learn by building. I reimplement papers from scratch (vision transformers, GPT
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🧠 Focus Areas
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Crystal%20Ball.png" width="32" height="32" alt=""/> What I Build
 
-| Area | What I do |
-|---|---|
-| 🤖 **Generative AI & LLMs** | GPTs from scratch, fine-tuning (LoRA), RAG, LLM agents, and evaluation based on measurements instead of demos |
-| 👁️ **Vision & Multimodal** | ViTs, image captioning with cross-attention, YOLO / SegNet detection and segmentation |
-| 🎙️ **Generative Audio** | Real-time, low-latency neural voice conversion (StreamVC, LLVC) |
-| 🕸️ **Graphs** | GCN, GAT, GraphSAGE, MPNN for molecular property prediction |
-| 🧮 **Foundations** | Autograd, attention, and optimizers built by hand |
+<table>
+<tr>
+<td width="33%" valign="top" align="center">
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" width="72" height="72" alt=""/>
+
+### Neural Lab
+<sub><i>deep learning from first principles</i></sub>
+
+</td>
+<td width="33%" valign="top" align="center">
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="72" height="72" alt=""/>
+
+### Agentic AI
+<sub><i>LLMs wired into real workflows</i></sub>
+
+</td>
+<td width="33%" valign="top" align="center">
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="72" height="72" alt=""/>
+
+### Product Engineering
+<sub><i>mobile apps, SaaS &amp; software that ships</i></sub>
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+- Transformers, ViTs &amp; GPTs **rebuilt from papers**
+- **Multimodal** vision + language (captioning, cross-attention)
+- **Generative audio**: real-time voice conversion
+- **Graph NNs** (GCN, GAT, MPNN)
+- Autograd &amp; optimizers **by hand**
+
+</td>
+<td valign="top">
+
+- **LLM apps &amp; multi-agent** systems
+- **RAG**: hybrid search, re-ranking, vector DBs
+- **Agent harnesses**: tools, MCP, Claude Code skills
+- **Evaluation &amp; feedback loops** for agents
+- **Fine-tuning** (LoRA) &amp; prompt engineering
+
+</td>
+<td valign="top">
+
+- **SaaS backends**: FastAPI, PostgreSQL, async
+- **Web apps**: React, Next.js, TypeScript
+- **Mobile apps**: Android with Kotlin
+- **Cloud &amp; DevOps**: AWS, Azure, Terraform, CI/CD
+- **Tooling** in Go &amp; Python
+
+</td>
+</tr>
+<tr>
+<td align="center"><sub>PyTorch · Lightning · Accelerate · W&amp;B</sub></td>
+<td align="center"><sub>LlamaIndex · LangChain · Hugging Face · Qdrant</sub></td>
+<td align="center"><sub>FastAPI · React · Kotlin · Docker · AWS</sub></td>
+</tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🛠️ Tech Stack & Tools
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="32" height="32" alt=""/> Tech Stack &amp; Tools
 
 **Languages**
 
@@ -98,7 +153,7 @@ I learn by building. I reimplement papers from scratch (vision transformers, GPT
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 💼 Experience
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="32" height="32" alt=""/> Experience
 
 | Role | Company | Period | Highlights |
 |---|---|---|---|
@@ -110,7 +165,7 @@ I learn by building. I reimplement papers from scratch (vision transformers, GPT
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🧪 Side Projects
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Shooting%20Star.png" width="32" height="32" alt=""/> Side Projects
 
 Products I build in my spare time, to take AI from a notebook to something people can use.
 
@@ -137,7 +192,7 @@ Products I build in my spare time, to take AI from a notebook to something peopl
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🎓 Education
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" width="32" height="32" alt=""/> Education
 
 | Degree | School | Period |
 |---|---|---|
@@ -146,7 +201,7 @@ Products I build in my spare time, to take AI from a notebook to something peopl
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🚀 Featured Projects
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="32" height="32" alt=""/> Featured Projects
 
 <p align="center">
   <a href="https://github.com/benisalla/micro-tiny-gpt-from-scratch"><img src="https://github-readme-stats.vercel.app/api/pin/?username=benisalla&repo=micro-tiny-gpt-from-scratch&theme=tokyonight&hide_border=true" width="49%"/></a>
@@ -172,7 +227,7 @@ Products I build in my spare time, to take AI from a notebook to something peopl
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 💬 My MT-GPT Interaction
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" width="32" height="32" alt=""/> My MT-GPT Interaction
 
 Here's a fun exchange I had with MT-GPT, a chatbot I created:
 
@@ -187,7 +242,7 @@ Here's a fun exchange I had with MT-GPT, a chatbot I created:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🏆 Achievements
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" width="32" height="32" alt=""/> Achievements
 
 - 🥇 **Top Graduate**: 2024 Computer Science Engineering class, ENSA Fès
 - 💻 **1st in Morocco · 121st worldwide**: IEEEXtreme global coding competition
@@ -195,7 +250,7 @@ Here's a fun exchange I had with MT-GPT, a chatbot I created:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📊 GitHub Stats
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Hundred%20Points.png" width="32" height="32" alt=""/> GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=benisalla&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
@@ -208,7 +263,7 @@ Here's a fun exchange I had with MT-GPT, a chatbot I created:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🤝 Let's Connect
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="32" height="32" alt=""/> Let's Connect
 
 I'm always happy to talk about **deep learning, GenAI, research collaborations, or startup ideas**.
 
