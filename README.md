@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=BEN-ALLA%20ISMAIL&fontSize=60&fontAlignY=35&desc=AI%20Researcher%20%26%20Engineer%20%C2%B7%20Paris&descAlignY=55&height=220&section=header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=BEN-ALLA%20ISMAIL&height=200&section=header&animation=fadeIn" width="100%"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/benisalla">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&center=true&vCenter=true&width=700&lines=I+build+deep+learning+systems+from+scratch;Generative+AI+%C2%B7+NLP+%C2%B7+Computer+Vision+%C2%B7+Audio;Then+I+ship+them+as+real+products+%F0%9F%9A%80" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&center=true&vCenter=true&width=700&color=58A6FF&lines=AI+Researcher+%26+Engineer+based+in+Paris;I+build+deep+learning+systems+from+scratch;Generative+AI+-+NLP+-+Computer+Vision+-+Audio;Then+I+ship+them+as+real+products" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -16,20 +16,22 @@
   <img src="https://komarev.com/ghpvc/?username=benisalla&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 👋 About Me
+## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"/> About Me
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="330" alt="Coding"/>
 
 I'm **Ismail**, an AI engineer and researcher based in **Paris, France** 🇫🇷 (originally from Fès, Morocco 🇲🇦).
 
-I learn by building. I reimplement papers from scratch (vision transformers, GPTs, an autograd engine, voice-conversion models) so I understand how they work instead of just calling an API. Then I ship AI as real products, both as an **engineer** (Monce.ai, SteelSeries) and as a **technical founder** (Asliia, Qlaver).
+I learn by building. I reimplement papers from scratch (vision transformers, GPTs, an autograd engine, voice-conversion models) so I understand how they work instead of just calling an API. Then I ship AI as real products, at work (**Monce.ai**, **SteelSeries**) and in my **side projects** (Asliia, Qlaver).
 
 - 🎓 **MSc in AI Research** at École Centrale de Lyon · **Computer Science Engineering degree** from ENSA Fès (top of the class)
 - 🔭 Currently working on **agentic document extraction and agent evaluation** at Monce.ai
 - 🌱 Exploring **multimodal learning** (vision + language) and **real-time generative audio**
 - ⚡ Motto: *build it from scratch first, reach for the library second.*
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🧠 Focus Areas
 
@@ -41,7 +43,7 @@ I learn by building. I reimplement papers from scratch (vision transformers, GPT
 | 🕸️ **Graphs** | GCN, GAT, GraphSAGE, MPNN for molecular property prediction |
 | 🧮 **Foundations** | Autograd, attention, and optimizers built by hand |
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🛠️ Tech Stack & Tools
 
@@ -94,21 +96,46 @@ I learn by building. I reimplement papers from scratch (vision transformers, GPT
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,threejs,androidstudio&perline=12" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 💼 Experience
 
 | Role | Company | Period | Highlights |
 |---|---|---|---|
 | **AI Engineer** | [Monce.ai](https://monce.ai) | Sep 2025 – Present | Designed a **feedback loop** that keeps adapting extraction agents to each client, and built an **agent-evaluation system** (multiple metrics and diagnostics) so improvements to the extraction pipeline can be measured. |
-| **Technical Founder** | Asliia | 2024 – Present | **Multi-agent document-extraction platform** where clients define their own output schemas. FastAPI + PostgreSQL + React, with async high-throughput processing on **AWS** and **Azure AI Foundry**, deployed with Terraform. |
-| **Technical Founder** | Qlaver | 2024 – Present | **Agentic email assistant** that summarizes email the way each user prefers, converts it to audio (ElevenLabs TTS), and delivers it over social channels. FastAPI + React + PostgreSQL on AWS. |
 | **AI Engineer Intern (MSc thesis)** | [SteelSeries](https://steelseries.com) | Apr 2025 – Sep 2025 | Built a **real-time neural voice-conversion** system under live-latency constraints. Added multi-voice mixing with **LLVC** and improved **StreamVC** quality and efficiency. Trained on multiple GPUs with distributed training. |
 | **AI Intern** | [Aritale (now Juridia)](https://www.juridia.ma/en/) | Jan 2024 – Jul 2024 | Built and deployed a **legal-document RAG** system (FastAPI, LlamaIndex, PostgreSQL, Qdrant) with cross-encoder re-ranking, multilingual support, and hybrid keyword / vector / metadata search behind a Next.js UI. |
 | **ML & CV Intern** | [3D Smart Factory](https://3dsmartfactory.csit.ma/) | 2023 | Fine-tuned **GPT-2** to answer questions about scientific articles. Built **YOLO** and **SegNet** models for autonomous-vehicle perception and deployed them to **FPGA** with Vivado. |
 | **ML Intern** | [Technocolabs Softwares](https://technocolabs.com/) | Jun 2023 – Jul 2023 | Built ML models that predict **mortgage prepayment risk** and deployed them with Flask. |
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🧪 Side Projects
+
+Products I build in my spare time, to take AI from a notebook to something people can use.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📄 Asliia
+**Multi-agent document-extraction platform.** Clients define their own output schema and a configurable set of agents extracts the data from their documents.
+
+<sub>FastAPI · PostgreSQL · React · AWS · Azure AI Foundry · Terraform</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### 📬 Qlaver
+**Agentic email assistant.** It reads and summarizes your email the way you like, turns the summary into audio (ElevenLabs TTS), and sends it to you over social channels.
+
+<sub>FastAPI · React · PostgreSQL · AWS · Terraform · GitHub Actions</sub>
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🎓 Education
 
@@ -117,16 +144,20 @@ I learn by building. I reimplement papers from scratch (vision transformers, GPT
 | **MSc, Artificial Intelligence Research** | École Centrale de Lyon, France 🇫🇷 | 2024 – 2025 |
 | **Computer Science Engineering Degree** | National School of Applied Sciences (ENSA), Fès, Morocco 🇲🇦 | 2019 – 2024 |
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🚀 Featured Projects
 
+<p align="center">
+  <a href="https://github.com/benisalla/micro-tiny-gpt-from-scratch"><img src="https://github-readme-stats.vercel.app/api/pin/?username=benisalla&repo=micro-tiny-gpt-from-scratch&theme=tokyonight&hide_border=true" width="49%"/></a>
+  <a href="https://github.com/benisalla/Tiny-ViT-Transformer-from-scratch"><img src="https://github-readme-stats.vercel.app/api/pin/?username=benisalla&repo=Tiny-ViT-Transformer-from-scratch&theme=tokyonight&hide_border=true" width="49%"/></a>
+  <a href="https://github.com/benisalla/BIA-IMG-Captioner"><img src="https://github-readme-stats.vercel.app/api/pin/?username=benisalla&repo=BIA-IMG-Captioner&theme=tokyonight&hide_border=true" width="49%"/></a>
+  <a href="https://github.com/benisalla/BIA-Bilingual-Net"><img src="https://github-readme-stats.vercel.app/api/pin/?username=benisalla&repo=BIA-Bilingual-Net&theme=tokyonight&hide_border=true" width="49%"/></a>
+</p>
+
+#### More projects
+
 | Project | Description | Stack |
-|---|---|---|
-| 🧠 [**micro-tiny-gpt**](https://github.com/benisalla/micro-tiny-gpt-from-scratch) | GPT-2 rebuilt from scratch with Flash Attention, pre-LayerNorm and a custom GELU, plus a full test suite. | PyTorch · pytest · TensorBoard |
-| 👁️ [**Tiny-ViT**](https://github.com/benisalla/Tiny-ViT-Transformer-from-scratch) | Vision Transformer built from scratch: three patch-embedding strategies, a [CLS] token, and fine-tuning. | PyTorch · ViT |
-| 🖼️ [**BIA-IMG-Captioner**](https://github.com/benisalla/BIA-IMG-Captioner) | End-to-end image captioning with a ViT encoder and a cross-attention Transformer decoder, built by hand. | PyTorch · Streamlit |
-| 🌍 [**BIA-BilingualNet**](https://github.com/benisalla/BIA-Bilingual-Net) | English ↔ Moroccan Darija translation (a low-resource dialect) with a from-scratch seq2seq Transformer and five decoding strategies. | PyTorch · Beam search |
 | 🎵 [**MGTLR**](https://github.com/benisalla/MGTLR) | Controlled comparison of Transformer, LSTM and RNN models for symbolic music generation. | PyTorch · Keras · Streamlit |
 | 🔧 [**MyTorcha**](https://github.com/benisalla/MyTorcha) | Minimal deep learning framework with DAG-based autograd, written in pure Python. | Python · NumPy |
 | 📐 [**cadquery-agent**](https://github.com/benisalla/cadquery-agent) | Local text/image agent that runs on open-weight models and generates validated CadQuery CAD code. | Python · LLMs |
@@ -138,7 +169,7 @@ I learn by building. I reimplement papers from scratch (vision transformers, GPT
   <a href="https://github.com/benisalla?tab=repositories"><b>➡️ See all repositories</b></a>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 💬 My MT-GPT Interaction
 
@@ -153,7 +184,7 @@ Here's a fun exchange I had with MT-GPT, a chatbot I created:
   <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/89405673/288863371-4abd63ca-ac20-40f9-a875-cdd181f888b2.png" width="100%"/>
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🏆 Achievements
 
@@ -161,7 +192,7 @@ Here's a fun exchange I had with MT-GPT, a chatbot I created:
 - 💻 **1st in Morocco · 121st worldwide**: IEEEXtreme global coding competition
 - 🥈 **2nd place**: IEEE R8 Entrepreneurship Initiative, with *Equinox*, a fitness app concept
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📊 GitHub Stats
 
@@ -174,11 +205,7 @@ Here's a fun exchange I had with MT-GPT, a chatbot I created:
   <img src="https://streak-stats.demolab.com/?user=benisalla&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=benisalla&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" width="100%"/>
-</p>
-
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🤝 Let's Connect
 
@@ -206,5 +233,5 @@ I'm always happy to talk about **deep learning, GenAI, research collaborations, 
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=footer&animation=twinkling" width="100%"/>
 </p>
