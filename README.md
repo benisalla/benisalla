@@ -158,6 +158,7 @@ Products I build in my spare time, to take AI from a notebook to something peopl
 #### More projects
 
 | Project | Description | Stack |
+|---|---|---|
 | 🎵 [**MGTLR**](https://github.com/benisalla/MGTLR) | Controlled comparison of Transformer, LSTM and RNN models for symbolic music generation. | PyTorch · Keras · Streamlit |
 | 🔧 [**MyTorcha**](https://github.com/benisalla/MyTorcha) | Minimal deep learning framework with DAG-based autograd, written in pure Python. | Python · NumPy |
 | 📐 [**cadquery-agent**](https://github.com/benisalla/cadquery-agent) | Local text/image agent that runs on open-weight models and generates validated CadQuery CAD code. | Python · LLMs |
