@@ -18,7 +18,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="32" height="32" alt=""/> About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="32" height="32" alt="" align="absmiddle"/> About Me
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="330" alt="Coding"/>
 
@@ -33,7 +33,7 @@ I learn by building. I reimplement papers from scratch (vision transformers, GPT
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Crystal%20Ball.png" width="32" height="32" alt=""/> What I Build
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Crystal%20Ball.png" width="32" height="32" alt="" align="absmiddle"/> What I Build
 
 <table>
 <tr>
@@ -100,7 +100,7 @@ I learn by building. I reimplement papers from scratch (vision transformers, GPT
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="32" height="32" alt=""/> Tech Stack &amp; Tools
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="32" height="32" alt="" align="absmiddle"/> Tech Stack &amp; Tools
 
 **Languages**
 
@@ -119,6 +119,7 @@ I learn by building. I reimplement papers from scratch (vision transformers, GPT
   <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
   <img src="https://img.shields.io/badge/LlamaIndex-000000?style=flat-square&logo=llama&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+  <br/>
   <img src="https://img.shields.io/badge/PyTorch%20Geometric-3C2179?style=flat-square&logo=pyg&logoColor=white"/>
   <img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white"/>
   <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black"/>
@@ -153,7 +154,7 @@ I learn by building. I reimplement papers from scratch (vision transformers, GPT
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="32" height="32" alt=""/> Experience
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="32" height="32" alt="" align="absmiddle"/> Experience
 
 | Role | Company | Period | Highlights |
 |---|---|---|---|
@@ -165,7 +166,7 @@ I learn by building. I reimplement papers from scratch (vision transformers, GPT
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Shooting%20Star.png" width="32" height="32" alt=""/> Side Projects
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Shooting%20Star.png" width="32" height="32" alt="" align="absmiddle"/> Side Projects
 
 Products I build in my spare time, to take AI from a notebook to something people can use.
 
@@ -192,7 +193,7 @@ Products I build in my spare time, to take AI from a notebook to something peopl
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" width="32" height="32" alt=""/> Education
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" width="32" height="32" alt="" align="absmiddle"/> Education
 
 | Degree | School | Period |
 |---|---|---|
@@ -201,7 +202,7 @@ Products I build in my spare time, to take AI from a notebook to something peopl
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="32" height="32" alt=""/> Featured Projects
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="32" height="32" alt="" align="absmiddle"/> Featured Projects
 
 <p align="center">
   <a href="https://github.com/benisalla/micro-tiny-gpt-from-scratch"><img src="https://github-readme-stats.vercel.app/api/pin/?username=benisalla&repo=micro-tiny-gpt-from-scratch&theme=tokyonight&hide_border=true" width="49%"/></a>
@@ -227,7 +228,7 @@ Products I build in my spare time, to take AI from a notebook to something peopl
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" width="32" height="32" alt=""/> My MT-GPT Interaction
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" width="32" height="32" alt="" align="absmiddle"/> My MT-GPT Interaction
 
 Here's a fun exchange I had with MT-GPT, a chatbot I created:
 
@@ -242,7 +243,7 @@ Here's a fun exchange I had with MT-GPT, a chatbot I created:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" width="32" height="32" alt=""/> Achievements
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" width="32" height="32" alt="" align="absmiddle"/> Achievements
 
 - 🥇 **Top Graduate**: 2024 Computer Science Engineering class, ENSA Fès
 - 💻 **1st in Morocco · 121st worldwide**: IEEEXtreme global coding competition
@@ -250,7 +251,7 @@ Here's a fun exchange I had with MT-GPT, a chatbot I created:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Hundred%20Points.png" width="32" height="32" alt=""/> GitHub Stats
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Hundred%20Points.png" width="32" height="32" alt="" align="absmiddle"/> GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=benisalla&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
@@ -263,7 +264,7 @@ Here's a fun exchange I had with MT-GPT, a chatbot I created:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="32" height="32" alt=""/> Let's Connect
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="32" height="32" alt="" align="absmiddle"/> Let's Connect
 
 I'm always happy to talk about **deep learning, GenAI, research collaborations, or startup ideas**.
 
