@@ -13,7 +13,7 @@
   <a href="mailto:ismailbenalla52@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://medium.com/@ismailbenalla52"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
   <a href="https://twitter.com/ismail_ben_alla"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=benisalla&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=benisalla&label=Profile%20views&color=0e75b6&style=for-the-badge&abbreviated=true" alt="Profile views"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -22,14 +22,14 @@
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="330" alt="Coding"/>
 
-I'm **Ismail**, an AI engineer and researcher based in **Paris, France** 🇫🇷 (originally from Fès, Morocco 🇲🇦).
+I'm **Ismail**, an AI engineer and researcher based in **Paris, France** 🇫🇷 (originally from Fès, Morocco 🇲🇦) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Airplane%20Departure.png" width="22" height="22" alt="" align="absmiddle"/>
 
 I learn by building. I reimplement papers from scratch (vision transformers, GPTs, an autograd engine, voice-conversion models) so I understand how they work instead of just calling an API. Then I ship AI as real products, at work (**Monce.ai**, **SteelSeries**) and in my **side projects** (Asliia, Qlaver).
 
-- 🎓 **MSc in AI Research** at École Centrale de Lyon · **Computer Science Engineering degree** from ENSA Fès (top of the class)
-- 🔭 Currently working on **agentic document extraction and agent evaluation** at Monce.ai
-- 🌱 Exploring **multimodal learning** (vision + language) and **real-time generative audio**
-- ⚡ Motto: *build it from scratch first, reach for the library second.*
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Owl.png" width="22" height="22" alt="" align="absmiddle"/> **MSc in AI Research** at École Centrale de Lyon · **Computer Science Engineering degree** from ENSA Fès (top of the class)
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Hourglass%20Not%20Done.png" width="22" height="22" alt="" align="absmiddle"/> Currently working on **agentic document extraction and agent evaluation** at Monce.ai
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Comet.png" width="22" height="22" alt="" align="absmiddle"/> Exploring **multimodal learning** (vision + language) and **real-time generative audio**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="22" height="22" alt="" align="absmiddle"/> Motto: *build it from scratch first, reach for the library second.*
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -174,7 +174,7 @@ Products I build in my spare time, to take AI from a notebook to something peopl
 <tr>
 <td width="50%" valign="top">
 
-### 📄 Asliia
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Flying%20Saucer.png" width="28" height="28" alt="" align="absmiddle"/> Asliia
 **Multi-agent document-extraction platform.** Clients define their own output schema and a configurable set of agents extracts the data from their documents.
 
 <sub>FastAPI · PostgreSQL · React · AWS · Azure AI Foundry · Terraform</sub>
@@ -182,7 +182,7 @@ Products I build in my spare time, to take AI from a notebook to something peopl
 </td>
 <td width="50%" valign="top">
 
-### 📬 Qlaver
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" width="28" height="28" alt="" align="absmiddle"/> Qlaver
 **Agentic email assistant.** It reads and summarizes your email the way you like, turns the summary into audio (ElevenLabs TTS), and sends it to you over social channels.
 
 <sub>FastAPI · React · PostgreSQL · AWS · Terraform · GitHub Actions</sub>
@@ -215,7 +215,7 @@ Products I build in my spare time, to take AI from a notebook to something peopl
 
 | Project | Description | Stack |
 |---|---|---|
-| 🎵 [**MGTLR**](https://github.com/benisalla/MGTLR) | Controlled comparison of Transformer, LSTM and RNN models for symbolic music generation. | PyTorch · Keras · Streamlit |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" width="20" height="20" alt="" align="absmiddle"/> [**MGTLR**](https://github.com/benisalla/MGTLR) | Controlled comparison of Transformer, LSTM and RNN models for symbolic music generation. | PyTorch · Keras · Streamlit |
 | 🔧 [**MyTorcha**](https://github.com/benisalla/MyTorcha) | Minimal deep learning framework with DAG-based autograd, written in pure Python. | Python · NumPy |
 | 📐 [**cadquery-agent**](https://github.com/benisalla/cadquery-agent) | Local text/image agent that runs on open-weight models and generates validated CadQuery CAD code. | Python · LLMs |
 | 📐 [**cadquery-deep-learning-model**](https://github.com/benisalla/cadquery-deep-learning-model) | Trainable image-to-CadQuery model with a ResNet encoder and a Transformer decoder. | PyTorch |
@@ -232,10 +232,9 @@ Products I build in my spare time, to take AI from a notebook to something peopl
 
 Here's a fun exchange I had with MT-GPT, a chatbot I created:
 
-> **Benisalla:** Hey MT-GPT, do you know your creator?  
-> **MT-GPT:** Oh, absolutely! He brought me to life. How could I forget him?  
-> **Benisalla:** Not convinced.  
-> **MT-GPT:** Challenge accepted! Check out the proof below!  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2600&pause=1500&color=58A6FF&multiline=true&width=620&height=120&lines=Benisalla%3A+Hey+MT-GPT%2C+do+you+know+your+creator%3F;MT-GPT%3A+Oh%2C+absolutely%21+He+brought+me+to+life.;Benisalla%3A+Not+convinced.;MT-GPT%3A+Challenge+accepted%21+Check+out+the+proof+below%21" alt="MT-GPT chat"/>
+</p>
 
 <div align="center">
   <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/89405673/288863371-4abd63ca-ac20-40f9-a875-cdd181f888b2.png" width="100%"/>
@@ -245,9 +244,9 @@ Here's a fun exchange I had with MT-GPT, a chatbot I created:
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" width="32" height="32" alt="" align="absmiddle"/> Achievements
 
-- 🥇 **Top Graduate**: 2024 Computer Science Engineering class, ENSA Fès
-- 💻 **1st in Morocco · 121st worldwide**: IEEEXtreme global coding competition
-- 🥈 **2nd place**: IEEE R8 Entrepreneurship Initiative, with *Equinox*, a fitness app concept
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Hundred%20Points.png" width="22" height="22" alt="" align="absmiddle"/> **Top Graduate**: 2024 Computer Science Engineering class, ENSA Fès
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Chequered%20Flag.png" width="22" height="22" alt="" align="absmiddle"/> **1st in Morocco · 121st worldwide**: IEEEXtreme global coding competition
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="22" height="22" alt="" align="absmiddle"/> **2nd place**: IEEE R8 Entrepreneurship Initiative, with *Equinox*, a fitness app concept
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -269,26 +268,18 @@ Here's a fun exchange I had with MT-GPT, a chatbot I created:
 I'm always happy to talk about **deep learning, GenAI, research collaborations, or startup ideas**.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ismail-ben-alla-bai/">
-    <img height="50" src="https://user-images.githubusercontent.com/89405673/216443606-c84ce978-1b47-40ee-af15-8a6a6e73f2c2.gif"/>
-  </a>
-  <a href="https://medium.com/@ismailbenalla52">
-    <img height="50" src="https://user-images.githubusercontent.com/89405673/216440278-ec444a99-1977-4dc2-a8aa-3672ada53588.gif"/>
-  </a>
-  <a href="https://dev.to/benisalla">
-    <img height="50" src="https://user-images.githubusercontent.com/89405673/216436825-b8a9cf1c-aee3-435b-81e2-6fe49be0c1ef.gif"/>
-  </a>
-  <a href="https://twitter.com/ismail_ben_alla">
-    <img height="50" src="https://user-images.githubusercontent.com/89405673/216443253-197514d5-89fc-45b6-ad0f-77fe0a83bb69.gif"/>
-  </a>
-  <a href="https://www.instagram.com/ismail_ben_alla/">
-    <img height="50" src="https://user-images.githubusercontent.com/89405673/216436865-ba4eb114-c70a-459f-86dd-c6c02b062408.gif"/>
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100067645963518">
-    <img height="50" src="https://user-images.githubusercontent.com/89405673/216442618-1f3c3dd3-b8a6-4470-80f8-0b8ddd1ecbf2.gif"/>
-  </a>
+  <a href="https://www.linkedin.com/in/ismail-ben-alla-bai/"><img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="linkedin"/></a>
+  <a href="mailto:ismailbenalla52@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="48" alt="gmail"/></a>
+  <a href="https://github.com/benisalla"><img src="https://skillicons.dev/icons?i=github" height="48" alt="github"/></a>
+  <a href="https://dev.to/benisalla"><img src="https://skillicons.dev/icons?i=devto" height="48" alt="devto"/></a>
+  <a href="https://twitter.com/ismail_ben_alla"><img src="https://skillicons.dev/icons?i=twitter" height="48" alt="twitter"/></a>
+  <a href="https://www.instagram.com/ismail_ben_alla/"><img src="https://skillicons.dev/icons?i=instagram" height="48" alt="instagram"/></a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=footer&animation=twinkling" width="100%"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=F778BA&center=true&vCenter=true&width=600&lines=Thanks+for+stopping+by!;Let%27s+build+something+great+together" alt="Thanks"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Keep%20building&fontSize=28&fontColor=ffffff&fontAlignY=70&animation=twinkling" width="100%"/>
 </p>
