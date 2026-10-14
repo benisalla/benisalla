@@ -13,7 +13,10 @@
   <a href="mailto:ismailbenalla52@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://medium.com/@ismailbenalla52"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
   <a href="https://twitter.com/ismail_ben_alla"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=benisalla&label=Profile%20views&color=0e75b6&style=for-the-badge&abbreviated=true" alt="Profile views"/>
+</p>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=benisalla.benisalla&left_text=Profile%20views&left_color=%230d1117&right_color=%230e75b6" alt="Profile views"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
