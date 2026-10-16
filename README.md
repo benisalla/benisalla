@@ -13,6 +13,7 @@
   <a href="mailto:ismailbenalla52@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://medium.com/@ismailbenalla52"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
   <a href="https://twitter.com/ismail_ben_alla"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="https://benisalla.github.io/ismail-ben-alla-link-in-bio-2022/"><img src="https://img.shields.io/badge/All%20my%20links%20%C2%B7%203D%20stack-7C5CFF?style=for-the-badge&logo=linktree&logoColor=white" alt="All my links and my tech stack in 3D"/></a>
 </p>
 
 <p align="center">
@@ -104,6 +105,12 @@ I learn by building. I reimplement papers from scratch (vision transformers, GPT
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="32" height="32" alt="" align="absmiddle"/> Tech Stack &amp; Tools
+
+<p align="center">
+  <a href="https://benisalla.github.io/ismail-ben-alla-link-in-bio-2022/"><img src="https://raw.githubusercontent.com/benisalla/ismail-ben-alla-link-in-bio-2022/master/.github/assets/house.webp" width="720" alt="My tech stack in 3D: click a technology to see what I built with it"/></a>
+  <br/>
+  <sub><b><a href="https://benisalla.github.io/ismail-ben-alla-link-in-bio-2022/">Explore my tech stack in 3D →</a></b> click a technology to see the projects and jobs I used it in.</sub>
+</p>
 
 **Languages**
 
@@ -278,6 +285,8 @@ I'm always happy to talk about **deep learning, GenAI, research collaborations, 
   <a href="https://twitter.com/ismail_ben_alla"><img src="https://skillicons.dev/icons?i=twitter" height="48" alt="twitter"/></a>
   <a href="https://www.instagram.com/ismail_ben_alla/"><img src="https://skillicons.dev/icons?i=instagram" height="48" alt="instagram"/></a>
 </p>
+
+<p align="center"><b>All my links in one place:</b> <a href="https://benisalla.github.io/ismail-ben-alla-link-in-bio-2022/">benisalla.github.io/ismail-ben-alla-link-in-bio-2022</a></p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=F778BA&center=true&vCenter=true&width=600&lines=Thanks+for+stopping+by!;Let%27s+build+something+great+together" alt="Thanks"/>
