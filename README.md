@@ -215,7 +215,7 @@ Products I build in my spare time, to take AI from a notebook to something peopl
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="32" height="32" alt="" align="absmiddle"/> Featured Projects
 
 <p align="center">
-  <a href="https://github.com/benisalla/micro-tiny-gpt-from-scratch"><img src="https://github-readme-stats.vercel.app/api/pin/?username=benisalla&repo=micro-tiny-gpt-from-scratch&theme=tokyonight&hide_border=true" width="49%"/></a>
+  <a href="https://github.com/benisalla/tiny-llm"><img src="https://github-readme-stats.vercel.app/api/pin/?username=benisalla&repo=tiny-llm&theme=tokyonight&hide_border=true" width="49%"/></a>
   <a href="https://github.com/benisalla/Tiny-ViT-Transformer-from-scratch"><img src="https://github-readme-stats.vercel.app/api/pin/?username=benisalla&repo=Tiny-ViT-Transformer-from-scratch&theme=tokyonight&hide_border=true" width="49%"/></a>
   <a href="https://github.com/benisalla/BIA-IMG-Captioner"><img src="https://github-readme-stats.vercel.app/api/pin/?username=benisalla&repo=BIA-IMG-Captioner&theme=tokyonight&hide_border=true" width="49%"/></a>
   <a href="https://github.com/benisalla/BIA-Bilingual-Net"><img src="https://github-readme-stats.vercel.app/api/pin/?username=benisalla&repo=BIA-Bilingual-Net&theme=tokyonight&hide_border=true" width="49%"/></a>
