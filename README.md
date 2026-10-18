@@ -13,7 +13,7 @@
   <a href="mailto:ismailbenalla52@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://medium.com/@ismailbenalla52"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
   <a href="https://twitter.com/ismail_ben_alla"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-  <a href="https://benisalla.github.io/ismail-ben-alla-link-in-bio-2022/"><img src="https://img.shields.io/badge/All%20my%20links%20%C2%B7%203D%20stack-7C5CFF?style=for-the-badge&logo=linktree&logoColor=white" alt="All my links and my tech stack in 3D"/></a>
+  <a href="https://benisalla.github.io/my-link-in-bio/"><img src="https://img.shields.io/badge/All%20my%20links%20%C2%B7%203D%20stack-7C5CFF?style=for-the-badge&logo=linktree&logoColor=white" alt="All my links and my tech stack in 3D"/></a>
 </p>
 
 <p align="center">
@@ -107,9 +107,9 @@ I learn by building. I reimplement papers from scratch (vision transformers, GPT
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="32" height="32" alt="" align="absmiddle"/> Tech Stack &amp; Tools
 
 <p align="center">
-  <a href="https://benisalla.github.io/ismail-ben-alla-link-in-bio-2022/"><img src="https://raw.githubusercontent.com/benisalla/ismail-ben-alla-link-in-bio-2022/master/.github/assets/house.webp" width="720" alt="My tech stack in 3D: click a technology to see what I built with it"/></a>
+  <a href="https://benisalla.github.io/my-link-in-bio/"><img src="https://raw.githubusercontent.com/benisalla/my-link-in-bio/master/.github/assets/house.webp" width="720" alt="My tech stack in 3D: click a technology to see what I built with it"/></a>
   <br/>
-  <sub><b><a href="https://benisalla.github.io/ismail-ben-alla-link-in-bio-2022/">Explore my tech stack in 3D →</a></b> click a technology to see the projects and jobs I used it in.</sub>
+  <sub><b><a href="https://benisalla.github.io/my-link-in-bio/">Explore my tech stack in 3D →</a></b> click a technology to see the projects and jobs I used it in.</sub>
 </p>
 
 **Languages**
@@ -216,7 +216,7 @@ Products I build in my spare time, to take AI from a notebook to something peopl
 
 <p align="center">
   <a href="https://github.com/benisalla/tiny-llm"><img src="https://github-readme-stats.vercel.app/api/pin/?username=benisalla&repo=tiny-llm&theme=tokyonight&hide_border=true" width="49%"/></a>
-  <a href="https://github.com/benisalla/vit-image-classifier"><img src="https://github-readme-stats.vercel.app/api/pin/?username=benisalla&repo=Tiny-ViT-Transformer-from-scratch&theme=tokyonight&hide_border=true" width="49%"/></a>
+  <a href="https://github.com/benisalla/vit-image-classifier"><img src="https://github-readme-stats.vercel.app/api/pin/?username=benisalla&repo=vit-image-classifier&theme=tokyonight&hide_border=true" width="49%"/></a>
   <a href="https://github.com/benisalla/image-captioner"><img src="https://github-readme-stats.vercel.app/api/pin/?username=benisalla&repo=image-captioner&theme=tokyonight&hide_border=true" width="49%"/></a>
   <a href="https://github.com/benisalla/bilingual-net"><img src="https://github-readme-stats.vercel.app/api/pin/?username=benisalla&repo=bilingual-net&theme=tokyonight&hide_border=true" width="49%"/></a>
 </p>
@@ -228,7 +228,16 @@ Products I build in my spare time, to take AI from a notebook to something peopl
 | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" width="20" height="20" alt="" align="absmiddle"/> [**MusicGen**](https://github.com/benisalla/musicgen) | Controlled comparison of Transformer, LSTM and RNN models for symbolic music generation. | PyTorch · Keras · Streamlit |
 | 🔧 [**MyTorcha**](https://github.com/benisalla/MyTorcha) | Minimal deep learning framework with DAG-based autograd, written in pure Python. | Python · NumPy |
 | 📐 [**cadquery-agent**](https://github.com/benisalla/cadquery-agent) | Local text/image agent that runs on open-weight models and generates validated CadQuery CAD code. | Python · LLMs |
-| 📐 [**cadquery-deep-learning-model**](https://github.com/benisalla/cadquery-deep-learning-model) | Trainable image-to-CadQuery model with a ResNet encoder and a Transformer decoder. | PyTorch |
+| 📐 [**tiny-img2cad**](https://ismail-ben-alla-portfolio.pages.dev/project?id=cadquery-deep-learning-model) | Image-to-CadQuery model: a ResNet18 encoder and a Transformer decoder that write the code for a CAD part from its picture. | PyTorch |
+| 👁️ [**vit-image-classifier**](https://github.com/benisalla/vit-image-classifier) | Vision Transformer written from scratch: attention heatmaps, Streamlit demo, 86 tests, 97% on shapes and 86% on PlantVillage. | PyTorch · Streamlit |
+| 🎯 [**yolo-object-detector**](https://github.com/benisalla/yolo-object-detector) | YOLOv1 from the paper: network, loss, NMS and mAP, trained on synthetic shapes, MNIST, PASCAL VOC and Mapillary traffic signs. | PyTorch |
+| 🧩 [**segnet-semantic-segmentation**](https://github.com/benisalla/segnet-semantic-segmentation) | SegNet semantic segmentation on toy shapes, Oxford-IIIT Pet and Mapillary Vistas, with tests and a Kaggle/Colab notebook. | PyTorch |
+| 🖼️ [**text2image**](https://github.com/benisalla/text2image) | Twelve text-to-image architectures (SD U-Net, DiT, MMDiT, FLUX, SANA, MaskGIT, VAR, ...) trained and benchmarked side by side. | PyTorch |
+| 🎨 [**imagegen**](https://github.com/benisalla/imagegen) | Image generation with GANs (DCGAN, SNGAN) and diffusion (DDPM/DDIM U-Net) on MNIST, CIFAR-10 and AFHQ. | PyTorch |
+| 🎙️ [**stt-workbench**](https://github.com/benisalla/stt-workbench) | Speech-to-text workbench: CTC, LAS, hybrid CTC/attention, RNN-Transducer and wav2vec2/Whisper fine-tuning, with WER/CER evaluation. | PyTorch |
+| 🔊 [**tts-workbench**](https://github.com/benisalla/tts-workbench) | Text-to-speech workbench: Tacotron 2, Transformer-TTS, FastSpeech 2, VITS and a HiFi-GAN vocoder, with MCD/F0/MOS evaluation. | PyTorch |
+| 🧑‍💼 [**hr-jev**](https://github.com/benisalla/hr-jev) | One GPT-2, written from scratch, predicts four HR outcomes (attrition, job level, satisfaction, income) from a plain-words employee description. | PyTorch · Gradio |
+| 💬 [**text-classification**](https://github.com/benisalla/text-classification) | Emotion classification with RNN, LSTM and GRU built with nn.* and from scratch; 12 models at 91-92% test accuracy. | PyTorch |
 | 📨 [**naive_little_rag**](https://github.com/benisalla/naive_little_rag) | A simple, readable RAG system that shows each step of retrieval-augmented generation. | Python · Vector search |
 | 📱 [**glitch**](https://github.com/benisalla/glitch) | Android app that breaks autopilot phone habits by shuffling your app order every time. No permissions, no tracking. | Kotlin · Android |
 
@@ -238,12 +247,12 @@ Products I build in my spare time, to take AI from a notebook to something peopl
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" width="32" height="32" alt="" align="absmiddle"/> My MT-GPT Interaction
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" width="32" height="32" alt="" align="absmiddle"/> My Tiny LLM Interaction
 
-Here's a fun exchange I had with MT-GPT, a chatbot I created:
+Here's a fun exchange I had with [Tiny LLM](https://github.com/benisalla/tiny-llm) (formerly MT-GPT), the GPT I built from scratch:
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2600&pause=1500&color=58A6FF&multiline=true&width=620&height=120&lines=Benisalla%3A+Hey+MT-GPT%2C+do+you+know+your+creator%3F;MT-GPT%3A+Oh%2C+absolutely%21+He+brought+me+to+life.;Benisalla%3A+Not+convinced.;MT-GPT%3A+Challenge+accepted%21+Check+out+the+proof+below%21" alt="MT-GPT chat"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2600&pause=1500&color=58A6FF&multiline=true&width=620&height=120&lines=Benisalla%3A+Hey+Tiny+LLM%2C+do+you+know+your+creator%3F;Tiny+LLM%3A+Oh%2C+absolutely%21+He+brought+me+to+life.;Benisalla%3A+Not+convinced.;Tiny+LLM%3A+Challenge+accepted%21+Check+out+the+proof+below%21" alt="Tiny LLM chat"/>
 </p>
 
 <div align="center">
@@ -286,7 +295,7 @@ I'm always happy to talk about **deep learning, GenAI, research collaborations, 
   <a href="https://www.instagram.com/ismail_ben_alla/"><img src="https://skillicons.dev/icons?i=instagram" height="48" alt="instagram"/></a>
 </p>
 
-<p align="center"><b>All my links in one place:</b> <a href="https://benisalla.github.io/ismail-ben-alla-link-in-bio-2022/">benisalla.github.io/ismail-ben-alla-link-in-bio-2022</a></p>
+<p align="center"><b>All my links in one place:</b> <a href="https://benisalla.github.io/my-link-in-bio/">benisalla.github.io/my-link-in-bio</a></p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=F778BA&center=true&vCenter=true&width=600&lines=Thanks+for+stopping+by!;Let%27s+build+something+great+together" alt="Thanks"/>
