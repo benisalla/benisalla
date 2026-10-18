@@ -28,7 +28,7 @@
 
 I'm **Ismail**, an AI engineer and researcher based in **Paris, France** 🇫🇷 (originally from Fès, Morocco 🇲🇦) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Airplane%20Departure.png" width="22" height="22" alt="" align="absmiddle"/>
 
-I learn by building. I reimplement papers from scratch (vision transformers, GPTs, an autograd engine, voice-conversion models) so I understand how they work instead of just calling an API. I turn that understanding into practical AI systems: document extraction, agent evaluation, real-time audio, and independent products such as Asliia and Qlaver.
+I learn by building. I reimplement papers from scratch (vision transformers, GPTs, an autograd engine, voice-conversion models) so I understand how they work instead of just calling an API. I turn that understanding into practical AI systems: document extraction, agent evaluation, real-time audio, and independent products such as Asliia, Qlaver, Kinetra and Glitch.
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Owl.png" width="22" height="22" alt="" align="absmiddle"/> Graduate of **École Centrale de Lyon** (Master’s in Artificial Intelligence) and **ENSA Fès** (Computer Science Engineering degree, top of the class)
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Hourglass%20Not%20Done.png" width="22" height="22" alt="" align="absmiddle"/> Focused on **agentic document extraction and agent evaluation**
@@ -178,7 +178,7 @@ I learn by building. I reimplement papers from scratch (vision transformers, GPT
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Shooting%20Star.png" width="32" height="32" alt="" align="absmiddle"/> Side Projects
 
-Products I build in my spare time, to take AI from a notebook to something people can use.
+Products I build in my spare time, to take AI from a notebook to something people can use. These four are the ones I keep working on to make them ready for real users.
 
 <table>
 <tr>
@@ -196,6 +196,24 @@ Products I build in my spare time, to take AI from a notebook to something peopl
 **Agentic email assistant.** It reads and summarizes your email the way you like, turns the summary into audio (ElevenLabs TTS), and sends it to you over social channels.
 
 <sub>FastAPI · React · PostgreSQL · AWS · Terraform · GitHub Actions</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Flexed%20Biceps.png" width="28" height="28" alt="" align="absmiddle"/> Kinetra
+**AI-powered fitness companion.** Guided workouts with 197 exercises and 8 programs, a real-time camera coach that counts reps and corrects your form on the phone, body measurements from a photo, and a community kept positive by an on-server toxicity filter.
+
+<sub>FastAPI · PostgreSQL · React Native (Expo) · MediaPipe · ONNX</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" width="28" height="28" alt="" align="absmiddle"/> [Glitch](https://github.com/benisalla/glitch)
+**Android app that breaks autopilot phone habits.** Shuffles your apps into a new order every time so you look before you tap, with a fixed dock and a home-screen widget. No permissions, no internet, no tracking. [Website](https://benisalla.github.io/glitch/) · [Download APK](https://github.com/benisalla/glitch/releases/latest/download/glitch.apk)
+
+<sub>Kotlin · Jetpack Compose · Material 3</sub>
 
 </td>
 </tr>
@@ -239,7 +257,6 @@ Products I build in my spare time, to take AI from a notebook to something peopl
 | 🧑‍💼 [**hr-jev**](https://github.com/benisalla/hr-jev) | One GPT-2, written from scratch, predicts four HR outcomes (attrition, job level, satisfaction, income) from a plain-words employee description. | PyTorch · Gradio |
 | 💬 [**text-classification**](https://github.com/benisalla/text-classification) | Emotion classification with RNN, LSTM and GRU built with nn.* and from scratch; 12 models at 91-92% test accuracy. | PyTorch |
 | 📨 [**naive_little_rag**](https://github.com/benisalla/naive_little_rag) | A simple, readable RAG system that shows each step of retrieval-augmented generation. | Python · Vector search |
-| 📱 [**glitch**](https://github.com/benisalla/glitch) | Android app that breaks autopilot phone habits by shuffling your app order every time. No permissions, no tracking. | Kotlin · Android |
 
 <p align="center">
   <a href="https://github.com/benisalla?tab=repositories"><b>➡️ See all repositories</b></a>
