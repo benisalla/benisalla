@@ -28,10 +28,10 @@
 
 I'm **Ismail**, an AI engineer and researcher based in **Paris, France** 🇫🇷 (originally from Fès, Morocco 🇲🇦) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Airplane%20Departure.png" width="22" height="22" alt="" align="absmiddle"/>
 
-I learn by building. I reimplement papers from scratch (vision transformers, GPTs, an autograd engine, voice-conversion models) so I understand how they work instead of just calling an API. Then I ship AI as real products, at work (**Monce.ai**, **SteelSeries**) and in my **side projects** (Asliia, Qlaver).
+I learn by building. I reimplement papers from scratch (vision transformers, GPTs, an autograd engine, voice-conversion models) so I understand how they work instead of just calling an API. I turn that understanding into practical AI systems: document extraction, agent evaluation, real-time audio, and independent products such as Asliia and Qlaver.
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Owl.png" width="22" height="22" alt="" align="absmiddle"/> **MSc in AI Research** at École Centrale de Lyon · **Computer Science Engineering degree** from ENSA Fès (top of the class)
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Hourglass%20Not%20Done.png" width="22" height="22" alt="" align="absmiddle"/> Currently working on **agentic document extraction and agent evaluation** at Monce.ai
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Owl.png" width="22" height="22" alt="" align="absmiddle"/> Graduate of **École Centrale de Lyon** (Master’s in Artificial Intelligence) and **ENSA Fès** (Computer Science Engineering degree, top of the class)
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Hourglass%20Not%20Done.png" width="22" height="22" alt="" align="absmiddle"/> Focused on **agentic document extraction and agent evaluation**
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Comet.png" width="22" height="22" alt="" align="absmiddle"/> Exploring **multimodal learning** (vision + language) and **real-time generative audio**
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="22" height="22" alt="" align="absmiddle"/> Motto: *build it from scratch first, reach for the library second.*
 
@@ -166,13 +166,13 @@ I learn by building. I reimplement papers from scratch (vision transformers, GPT
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="32" height="32" alt="" align="absmiddle"/> Experience
 
-| Role | Company | Period | Highlights |
-|---|---|---|---|
-| **AI Engineer** | [Monce.ai](https://monce.ai) | Sep 2025 – Present | Designed a **feedback loop** that keeps adapting extraction agents to each client, and built an **agent-evaluation system** (multiple metrics and diagnostics) so improvements to the extraction pipeline can be measured. |
-| **AI Engineer Intern (MSc thesis)** | [SteelSeries](https://steelseries.com) | Apr 2025 – Sep 2025 | Built a **real-time neural voice-conversion** system under live-latency constraints. Added multi-voice mixing with **LLVC** and improved **StreamVC** quality and efficiency. Trained on multiple GPUs with distributed training. |
-| **AI Intern** | [Aritale (now Juridia)](https://www.juridia.ma/en/) | Jan 2024 – Jul 2024 | Built and deployed a **legal-document RAG** system (FastAPI, LlamaIndex, PostgreSQL, Qdrant) with cross-encoder re-ranking, multilingual support, and hybrid keyword / vector / metadata search behind a Next.js UI. |
-| **ML & CV Intern** | [3D Smart Factory](https://3dsmartfactory.csit.ma/) | 2023 | Fine-tuned **GPT-2** to answer questions about scientific articles. Built **YOLO** and **SegNet** models for autonomous-vehicle perception and deployed them to **FPGA** with Vivado. |
-| **ML Intern** | [Technocolabs Softwares](https://technocolabs.com/) | Jun 2023 – Jul 2023 | Built ML models that predict **mortgage prepayment risk** and deployed them with Flask. |
+| Role | Period | Highlights |
+|---|---|---|
+| **AI Engineer** | Sep 2025 – Present | Designed a **feedback loop** that keeps adapting extraction agents to each client, and built an **agent-evaluation system** (multiple metrics and diagnostics) so improvements to the extraction pipeline can be measured. |
+| **AI Engineer Intern (MSc thesis)** | Apr 2025 – Sep 2025 | Built a **real-time neural voice-conversion** system under live-latency constraints. Added multi-voice mixing with **LLVC** and improved **StreamVC** quality and efficiency. Trained on multiple GPUs with distributed training. |
+| **AI Intern** | Jan 2024 – Jul 2024 | Built and deployed a **legal-document RAG** system (FastAPI, LlamaIndex, PostgreSQL, Qdrant) with cross-encoder re-ranking, multilingual support, and hybrid keyword / vector / metadata search behind a Next.js UI. |
+| **ML & CV Intern** | 2023 | Fine-tuned **GPT-2** to answer questions about scientific articles. Built **YOLO** and **SegNet** models for autonomous-vehicle perception and deployed them to **FPGA** with Vivado. |
+| **ML Intern** | Jun 2023 – Jul 2023 | Built ML models that predict **mortgage prepayment risk** and deployed them with Flask. |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
