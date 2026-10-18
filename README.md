@@ -217,15 +217,15 @@ Products I build in my spare time, to take AI from a notebook to something peopl
 <p align="center">
   <a href="https://github.com/benisalla/tiny-llm"><img src="https://github-readme-stats.vercel.app/api/pin/?username=benisalla&repo=tiny-llm&theme=tokyonight&hide_border=true" width="49%"/></a>
   <a href="https://github.com/benisalla/vit-image-classifier"><img src="https://github-readme-stats.vercel.app/api/pin/?username=benisalla&repo=Tiny-ViT-Transformer-from-scratch&theme=tokyonight&hide_border=true" width="49%"/></a>
-  <a href="https://github.com/benisalla/BIA-IMG-Captioner"><img src="https://github-readme-stats.vercel.app/api/pin/?username=benisalla&repo=BIA-IMG-Captioner&theme=tokyonight&hide_border=true" width="49%"/></a>
-  <a href="https://github.com/benisalla/BIA-Bilingual-Net"><img src="https://github-readme-stats.vercel.app/api/pin/?username=benisalla&repo=BIA-Bilingual-Net&theme=tokyonight&hide_border=true" width="49%"/></a>
+  <a href="https://github.com/benisalla/image-captioner"><img src="https://github-readme-stats.vercel.app/api/pin/?username=benisalla&repo=image-captioner&theme=tokyonight&hide_border=true" width="49%"/></a>
+  <a href="https://github.com/benisalla/bilingual-net"><img src="https://github-readme-stats.vercel.app/api/pin/?username=benisalla&repo=bilingual-net&theme=tokyonight&hide_border=true" width="49%"/></a>
 </p>
 
 #### More projects
 
 | Project | Description | Stack |
 |---|---|---|
-| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" width="20" height="20" alt="" align="absmiddle"/> [**MGTLR**](https://github.com/benisalla/MGTLR) | Controlled comparison of Transformer, LSTM and RNN models for symbolic music generation. | PyTorch · Keras · Streamlit |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" width="20" height="20" alt="" align="absmiddle"/> [**MusicGen**](https://github.com/benisalla/musicgen) | Controlled comparison of Transformer, LSTM and RNN models for symbolic music generation. | PyTorch · Keras · Streamlit |
 | 🔧 [**MyTorcha**](https://github.com/benisalla/MyTorcha) | Minimal deep learning framework with DAG-based autograd, written in pure Python. | Python · NumPy |
 | 📐 [**cadquery-agent**](https://github.com/benisalla/cadquery-agent) | Local text/image agent that runs on open-weight models and generates validated CadQuery CAD code. | Python · LLMs |
 | 📐 [**cadquery-deep-learning-model**](https://github.com/benisalla/cadquery-deep-learning-model) | Trainable image-to-CadQuery model with a ResNet encoder and a Transformer decoder. | PyTorch |
