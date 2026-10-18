@@ -202,7 +202,7 @@ Products I build in my spare time, to take AI from a notebook to something peopl
 <tr>
 <td width="50%" valign="top">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Flexed%20Biceps.png" width="28" height="28" alt="" align="absmiddle"/> Kinetra
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Flexed%20Biceps.png" width="28" height="28" alt="" align="absmiddle"/> Kinetra
 **AI-powered fitness companion.** Guided workouts with 197 exercises and 8 programs, a real-time camera coach that counts reps and corrects your form on the phone, body measurements from a photo, and a community kept positive by an on-server toxicity filter.
 
 <sub>FastAPI · PostgreSQL · React Native (Expo) · MediaPipe · ONNX</sub>
