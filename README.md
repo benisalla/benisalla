@@ -1,3 +1,5 @@
+<p align="center"><a href="README.md"><b>English</b></a> · <a href="README.fr.md">Français</a> · <a href="README.ar.md">العربية</a></p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=BEN-ALLA%20ISMAIL&height=200&section=header&fontColor=ffffff&animation=fadeIn" width="100%"/>
 </p>
@@ -234,10 +236,10 @@ Products I build in my spare time, to take AI from a notebook to something peopl
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="32" height="32" alt="" align="absmiddle"/> Featured Projects
 
 <p align="center">
-  <a href="https://github.com/benisalla/tiny-llm"><img src="https://github-readme-stats.vercel.app/api/pin/?username=benisalla&repo=tiny-llm&theme=tokyonight&hide_border=true" width="49%"/></a>
-  <a href="https://github.com/benisalla/vit-image-classifier"><img src="https://github-readme-stats.vercel.app/api/pin/?username=benisalla&repo=vit-image-classifier&theme=tokyonight&hide_border=true" width="49%"/></a>
-  <a href="https://github.com/benisalla/image-captioner"><img src="https://github-readme-stats.vercel.app/api/pin/?username=benisalla&repo=image-captioner&theme=tokyonight&hide_border=true" width="49%"/></a>
-  <a href="https://github.com/benisalla/bilingual-net"><img src="https://github-readme-stats.vercel.app/api/pin/?username=benisalla&repo=bilingual-net&theme=tokyonight&hide_border=true" width="49%"/></a>
+  <a href="https://github.com/benisalla/tiny-llm"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=benisalla&repo=tiny-llm&theme=tokyonight&hide_border=true"/><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=benisalla&repo=tiny-llm&theme=default&hide_border=true"/><img src="https://github-readme-stats.vercel.app/api/pin/?username=benisalla&repo=tiny-llm&theme=default&hide_border=true" width="49%"//></picture></a>
+  <a href="https://github.com/benisalla/vit-image-classifier"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=benisalla&repo=vit-image-classifier&theme=tokyonight&hide_border=true"/><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=benisalla&repo=vit-image-classifier&theme=default&hide_border=true"/><img src="https://github-readme-stats.vercel.app/api/pin/?username=benisalla&repo=vit-image-classifier&theme=default&hide_border=true" width="49%"//></picture></a>
+  <a href="https://github.com/benisalla/image-captioner"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=benisalla&repo=image-captioner&theme=tokyonight&hide_border=true"/><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=benisalla&repo=image-captioner&theme=default&hide_border=true"/><img src="https://github-readme-stats.vercel.app/api/pin/?username=benisalla&repo=image-captioner&theme=default&hide_border=true" width="49%"//></picture></a>
+  <a href="https://github.com/benisalla/bilingual-net"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=benisalla&repo=bilingual-net&theme=tokyonight&hide_border=true"/><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=benisalla&repo=bilingual-net&theme=default&hide_border=true"/><img src="https://github-readme-stats.vercel.app/api/pin/?username=benisalla&repo=bilingual-net&theme=default&hide_border=true" width="49%"//></picture></a>
 </p>
 
 #### More projects
@@ -297,12 +299,12 @@ Here's a fun exchange I had with [Tiny LLM](https://github.com/benisalla/tiny-ll
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Hundred%20Points.png" width="32" height="32" alt="" align="absmiddle"/> GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=benisalla&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=benisalla&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=benisalla&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=benisalla&show_icons=true&theme=default&hide_border=true&count_private=true"/><img src="https://github-readme-stats.vercel.app/api?username=benisalla&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="170"//></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=benisalla&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=benisalla&layout=compact&theme=default&hide_border=true&langs_count=8"/><img src="https://github-readme-stats.vercel.app/api/top-langs?username=benisalla&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Top Languages" height="170"//></picture>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=benisalla&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=benisalla&theme=tokyonight&hide_border=true"/><source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=benisalla&theme=default&hide_border=true"/><img src="https://streak-stats.demolab.com/?user=benisalla&theme=default&hide_border=true" alt="GitHub Streak"//></picture>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
