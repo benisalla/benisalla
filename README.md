@@ -211,8 +211,8 @@ Products I build in my spare time, to take AI from a notebook to something peopl
 </td>
 <td width="50%" valign="top">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" width="28" height="28" alt="" align="absmiddle"/> [Glitch](https://github.com/benisalla/glitch)
-**Android app that breaks autopilot phone habits.** Shuffles your apps into a new order every time so you look before you tap, with a fixed dock and a home-screen widget. No permissions, no internet, no tracking. [Website](https://benisalla.github.io/glitch/) · [Download APK](https://github.com/benisalla/glitch/releases/latest/download/glitch.apk)
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" width="28" height="28" alt="" align="absmiddle"/> Glitch
+**Android app that breaks autopilot phone habits.** Shuffles your apps into a new order every time so you look before you tap, with a fixed dock and a home-screen widget. No permissions, no internet, no tracking. Code private while it is in development.
 
 <sub>Kotlin · Jetpack Compose · Material 3</sub>
 
