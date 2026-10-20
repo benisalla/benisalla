@@ -30,7 +30,7 @@
 
 I'm **Ismail**, an AI engineer and researcher based in **Paris, France** 🇫🇷 (originally from Fès, Morocco 🇲🇦) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Airplane%20Departure.png" width="22" height="22" alt="" align="absmiddle"/>
 
-I learn by building. I reimplement papers from scratch (vision transformers, GPTs, an autograd engine, voice-conversion models) so I understand how they work instead of just calling an API. I turn that understanding into practical AI systems: document extraction, agent evaluation, real-time audio, and independent products such as Asliia, Qlaver, Kinetra and Glitch.
+I learn by building. I reimplement papers from scratch (vision transformers, GPTs, an autograd engine, voice-conversion models) so I understand how they work instead of just calling an API. I turn that understanding into practical AI systems: document extraction, agent evaluation, real-time audio, and independent products such as Qlaver, Kinetra and Glitch.
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Owl.png" width="22" height="22" alt="" align="absmiddle"/> Graduate of **École Centrale de Lyon** (Master’s in Artificial Intelligence) and **ENSA Fès** (Computer Science Engineering degree, top of the class)
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Hourglass%20Not%20Done.png" width="22" height="22" alt="" align="absmiddle"/> Focused on **agentic AI, multilingual RAG and LLM evaluation** in production
@@ -181,42 +181,35 @@ I learn by building. I reimplement papers from scratch (vision transformers, GPT
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Shooting%20Star.png" width="32" height="32" alt="" align="absmiddle"/> Side Projects
 
-Products I build in my spare time, to take AI from a notebook to something people can use. These four are the ones I keep working on to make them ready for real users.
+Products I build in my spare time, to take AI from a notebook to something people can use. These three are the ones I keep working on to make them ready for real users. They are private for now: I see real potential in them, so their code stays closed.
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Flying%20Saucer.png" width="28" height="28" alt="" align="absmiddle"/> Asliia
-**Multi-agent document-extraction platform.** Clients define their own output schema and a configurable set of agents extracts the data from their documents.
-
-<sub>FastAPI · PostgreSQL · React · AWS · Azure AI Foundry · Terraform</sub>
-
-</td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" width="28" height="28" alt="" align="absmiddle"/> Qlaver
-**Agentic email assistant.** It reads and summarizes your email the way you like, turns the summary into audio (ElevenLabs TTS), and sends it to you over social channels.
+**Agentic email assistant.** It summarizes your inbox the way you like and sends you the summary as audio.
 
-<sub>FastAPI · React · PostgreSQL · AWS · Terraform · GitHub Actions</sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Flexed%20Biceps.png" width="28" height="28" alt="" align="absmiddle"/> Kinetra
-**AI-powered fitness companion.** Guided workouts with 197 exercises and 8 programs, a real-time camera coach that counts reps and corrects your form on the phone, body measurements from a photo, and a community kept positive by an on-server toxicity filter.
-
-<sub>FastAPI · PostgreSQL · React Native (Expo) · MediaPipe · ONNX</sub>
+<sub>FastAPI · React · ElevenLabs · AWS</sub><br>
+<sub>🔒 Private project</sub>
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" width="28" height="28" alt="" align="absmiddle"/> Glitch
-**Android app that breaks autopilot phone habits.** Shuffles your apps into a new order every time so you look before you tap, with a fixed dock and a home-screen widget. No permissions, no internet, no tracking. Code private while it is in development.
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Flexed%20Biceps.png" width="28" height="28" alt="" align="absmiddle"/> [Kinetra](https://ben-alla-ismail.vercel.app/projects/kinetra)
+**AI fitness companion.** Guided workouts, a camera coach for your form, body measurements from a photo, and a supportive community.
 
-<sub>Kotlin · Jetpack Compose · Material 3</sub>
+<sub>FastAPI · React Native (Expo) · MediaPipe · ONNX</sub><br>
+<sub>🔒 Private project</sub>
+
+</td>
+<td width="33%" valign="top">
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" width="28" height="28" alt="" align="absmiddle"/> [Glitch](https://ben-alla-ismail.vercel.app/projects/glitch)
+**Android app against autopilot habits.** Your apps in a new random order, so you look before you tap. No permissions, no internet, no tracking.
+
+<sub>Kotlin · Jetpack Compose</sub><br>
+<sub>🔒 Private project</sub>
 
 </td>
 </tr>
