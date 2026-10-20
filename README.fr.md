@@ -30,7 +30,7 @@
 
 Je suis **Ismail**, ingénieur et chercheur en IA basé à **Paris, France** 🇫🇷 (originaire de Fès, au Maroc 🇲🇦) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Airplane%20Departure.png" width="22" height="22" alt="" align="absmiddle"/>
 
-J'apprends en construisant. Je réimplémente des articles de recherche à partir de zéro (vision transformers, GPT, un moteur d'autograd, des modèles de conversion vocale) pour comprendre réellement leur fonctionnement, au lieu de me contenter d'appeler une API. Je transforme ensuite cette compréhension en systèmes d'IA concrets&nbsp;: extraction de documents, évaluation d'agents, audio en temps réel, et des produits indépendants tels qu'Asliia, Qlaver, Kinetra et Glitch.
+J'apprends en construisant. Je réimplémente des articles de recherche à partir de zéro (vision transformers, GPT, un moteur d'autograd, des modèles de conversion vocale) pour comprendre réellement leur fonctionnement, au lieu de me contenter d'appeler une API. Je transforme ensuite cette compréhension en systèmes d'IA concrets&nbsp;: extraction de documents, évaluation d'agents, audio en temps réel, et des produits indépendants tels que Qlaver, Kinetra et Glitch.
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Owl.png" width="22" height="22" alt="" align="absmiddle"/> Diplômé de l'**École Centrale de Lyon** (Master en Intelligence Artificielle) et de l'**ENSA Fès** (diplôme d'ingénieur en informatique, major de promotion)
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Hourglass%20Not%20Done.png" width="22" height="22" alt="" align="absmiddle"/> Spécialisé dans l'**IA agentique, le RAG multilingue et l'évaluation des LLM** en production
@@ -181,42 +181,35 @@ J'apprends en construisant. Je réimplémente des articles de recherche à parti
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Shooting%20Star.png" width="32" height="32" alt="" align="absmiddle"/> Projets personnels
 
-Des produits que je développe sur mon temps libre, pour faire sortir l'IA du notebook et en faire quelque chose que les gens peuvent utiliser. Ces quatre-là sont ceux sur lesquels je continue de travailler pour les rendre prêts pour de vrais utilisateurs.
+Des produits que je développe sur mon temps libre, pour faire sortir l'IA du notebook et en faire quelque chose que les gens peuvent utiliser. Ces trois-là sont ceux sur lesquels je continue de travailler pour les rendre prêts pour de vrais utilisateurs. Ils restent privés pour l'instant : j'y vois un vrai potentiel, leur code reste donc fermé.
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Flying%20Saucer.png" width="28" height="28" alt="" align="absmiddle"/> Asliia
-**Plateforme multi-agents d'extraction de documents.** Les clients définissent leur propre schéma de sortie et un ensemble configurable d'agents extrait les données de leurs documents.
-
-<sub>FastAPI · PostgreSQL · React · AWS · Azure AI Foundry · Terraform</sub>
-
-</td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" width="28" height="28" alt="" align="absmiddle"/> Qlaver
-**Assistant e-mail agentique.** Il lit et résume vos e-mails à votre façon, convertit le résumé en audio (ElevenLabs TTS) et vous l'envoie via vos canaux sociaux.
+**Assistant e-mail agentique.** Il résume votre boîte de réception comme vous l'aimez et vous envoie le résumé en audio.
 
-<sub>FastAPI · React · PostgreSQL · AWS · Terraform · GitHub Actions</sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Flexed%20Biceps.png" width="28" height="28" alt="" align="absmiddle"/> Kinetra
-**Compagnon fitness propulsé par l'IA.** Des entraînements guidés avec 197 exercices et 8 programmes, un coach caméra en temps réel qui compte les répétitions et corrige votre posture sur le téléphone, des mensurations corporelles à partir d'une photo, et une communauté maintenue bienveillante grâce à un filtre de toxicité côté serveur.
-
-<sub>FastAPI · PostgreSQL · React Native (Expo) · MediaPipe · ONNX</sub>
+<sub>FastAPI · React · ElevenLabs · AWS</sub><br>
+<sub>🔒 Projet privé</sub>
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" width="28" height="28" alt="" align="absmiddle"/> Glitch
-**Application Android qui casse les réflexes automatiques sur le téléphone.** Elle mélange vos applications dans un nouvel ordre à chaque fois, pour que vous regardiez avant d'appuyer, avec un dock fixe et un widget d'écran d'accueil. Aucune permission, pas d'internet, aucun pistage. Code privé pendant le développement.
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Flexed%20Biceps.png" width="28" height="28" alt="" align="absmiddle"/> [Kinetra](https://ben-alla-ismail.vercel.app/fr/projects/kinetra)
+**Coach sportif IA.** Des séances guidées, un coach caméra pour votre posture, des mesures corporelles à partir d'une photo, et une communauté bienveillante.
 
-<sub>Kotlin · Jetpack Compose · Material 3</sub>
+<sub>FastAPI · React Native (Expo) · MediaPipe · ONNX</sub><br>
+<sub>🔒 Projet privé</sub>
+
+</td>
+<td width="33%" valign="top">
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" width="28" height="28" alt="" align="absmiddle"/> [Glitch](https://ben-alla-ismail.vercel.app/fr/projects/glitch)
+**Application Android contre le pilote automatique.** Vos applications dans un nouvel ordre aléatoire, pour regarder avant de toucher. Aucune permission, pas d'internet, aucun pistage.
+
+<sub>Kotlin · Jetpack Compose</sub><br>
+<sub>🔒 Projet privé</sub>
 
 </td>
 </tr>

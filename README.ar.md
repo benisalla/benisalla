@@ -30,7 +30,7 @@
 
 <p dir="rtl" align="right">أنا <b>إسماعيل</b>، مهندس وباحث في الذكاء الاصطناعي مقيم في <b>باريس، فرنسا</b> 🇫🇷 (وأصلي من مدينة فاس، المغرب 🇲🇦) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Airplane%20Departure.png" width="22" height="22" alt="" align="absmiddle"/></p>
 
-<p dir="rtl" align="right">أتعلّم بالبناء. أعيد تنفيذ الأوراق البحثية من الصفر (Vision Transformers، نماذج GPT، محرّك autograd، نماذج تحويل الصوت) حتى أفهم كيف تعمل فعلاً بدلاً من الاكتفاء باستدعاء API. ثم أحوّل هذا الفهم إلى أنظمة ذكاء اصطناعي عملية: استخراج المستندات، تقييم الوكلاء، الصوت في الزمن الحقيقي، ومنتجات مستقلة مثل Asliia وQlaver وKinetra وGlitch.</p>
+<p dir="rtl" align="right">أتعلّم بالبناء. أعيد تنفيذ الأوراق البحثية من الصفر (Vision Transformers، نماذج GPT، محرّك autograd، نماذج تحويل الصوت) حتى أفهم كيف تعمل فعلاً بدلاً من الاكتفاء باستدعاء API. ثم أحوّل هذا الفهم إلى أنظمة ذكاء اصطناعي عملية: استخراج المستندات، تقييم الوكلاء، الصوت في الزمن الحقيقي، ومنتجات مستقلة مثل Qlaver وKinetra وGlitch.</p>
 
 <div dir="rtl" align="right">
 
@@ -185,42 +185,35 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Shooting%20Star.png" width="32" height="32" alt="" align="absmiddle"/> <span dir="rtl">مشاريع جانبية</span>
 
-<p dir="rtl" align="right">منتجات أبنيها في وقتي الحر، لأُخرج الذكاء الاصطناعي من الدفتر التجريبي (notebook) إلى شيء يمكن للناس استخدامه. هذه الأربعة هي التي أواصل العمل عليها لتصبح جاهزة لمستخدمين حقيقيين.</p>
+<p dir="rtl" align="right">منتجات أبنيها في وقتي الحر، لأُخرج الذكاء الاصطناعي من الدفتر التجريبي (notebook) إلى شيء يمكن للناس استخدامه. هذه الثلاثة هي التي أواصل العمل عليها لتصبح جاهزة لمستخدمين حقيقيين. تبقى خاصة في الوقت الحالي: أرى فيها إمكانات حقيقية، لذلك تبقى شيفرتها مغلقة.</p>
 
 <table>
 <tr>
-<td width="50%" valign="top" dir="rtl" align="right">
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Flying%20Saucer.png" width="28" height="28" alt="" align="absmiddle"/> Asliia
-**منصة متعددة الوكلاء لاستخراج المستندات.** يحدّد العملاء مخطط المخرجات الخاص بهم، وتتولى مجموعة قابلة للتهيئة من الوكلاء استخراج البيانات من مستنداتهم.
-
-<sub>FastAPI · PostgreSQL · React · AWS · Azure AI Foundry · Terraform</sub>
-
-</td>
-<td width="50%" valign="top" dir="rtl" align="right">
+<td width="33%" valign="top" dir="rtl" align="right">
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" width="28" height="28" alt="" align="absmiddle"/> Qlaver
-**مساعد بريد إلكتروني وكيلي.** يقرأ بريدك ويلخّصه بالطريقة التي تفضّلها، ويحوّل الملخص إلى صوت (ElevenLabs TTS)، ثم يرسله إليك عبر قنوات التواصل الاجتماعي.
+**مساعد بريد إلكتروني ذكي.** يلخّص بريدك الوارد بالطريقة التي تفضّلها ويرسل إليك الملخص صوتيًا.
 
-<sub>FastAPI · React · PostgreSQL · AWS · Terraform · GitHub Actions</sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top" dir="rtl" align="right">
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Flexed%20Biceps.png" width="28" height="28" alt="" align="absmiddle"/> Kinetra
-**رفيق لياقة بدنية مدعوم بالذكاء الاصطناعي.** تمارين موجّهة تضم 197 تمريناً و8 برامج، ومدرّب بالكاميرا في الزمن الحقيقي يعدّ التكرارات ويصحّح وضعيتك على الهاتف، وقياسات الجسم من صورة واحدة، ومجتمع يبقى إيجابياً بفضل مرشّح للمحتوى السام يعمل على الخادم.
-
-<sub>FastAPI · PostgreSQL · React Native (Expo) · MediaPipe · ONNX</sub>
+<sub>FastAPI · React · ElevenLabs · AWS</sub><br>
+<sub>🔒 مشروع خاص</sub>
 
 </td>
-<td width="50%" valign="top" dir="rtl" align="right">
+<td width="33%" valign="top" dir="rtl" align="right">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" width="28" height="28" alt="" align="absmiddle"/> Glitch
-**تطبيق Android يكسر عادات استخدام الهاتف الآلية.** يخلط تطبيقاتك بترتيب جديد في كل مرة حتى تنظر قبل أن تضغط، مع شريط تطبيقات ثابت وودجت للشاشة الرئيسية. بلا أذونات، بلا إنترنت، بلا تتبّع. الكود خاص أثناء مرحلة التطوير.
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Flexed%20Biceps.png" width="28" height="28" alt="" align="absmiddle"/> [Kinetra](https://ben-alla-ismail.vercel.app/ar/projects/kinetra)
+**رفيق لياقة بالذكاء الاصطناعي.** تمارين موجَّهة، ومدرّب بالكاميرا لوضعيتك، وقياسات للجسم من صورة، ومجتمع داعم.
 
-<sub>Kotlin · Jetpack Compose · Material 3</sub>
+<sub>FastAPI · React Native (Expo) · MediaPipe · ONNX</sub><br>
+<sub>🔒 مشروع خاص</sub>
+
+</td>
+<td width="33%" valign="top" dir="rtl" align="right">
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" width="28" height="28" alt="" align="absmiddle"/> [Glitch](https://ben-alla-ismail.vercel.app/ar/projects/glitch)
+**تطبيق أندرويد ضد النقر التلقائي.** تطبيقاتك بترتيب عشوائي جديد، لتنظر قبل أن تلمس. بلا أذونات، وبلا إنترنت، وبلا تتبّع.
+
+<sub>Kotlin · Jetpack Compose</sub><br>
+<sub>🔒 مشروع خاص</sub>
 
 </td>
 </tr>
