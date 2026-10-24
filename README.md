@@ -26,7 +26,8 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="32" height="32" alt="" align="absmiddle"/> About Me
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="330" alt="Coding"/>
+<!-- <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="330" alt="Coding"/> -->
+<img align="right" src="https://github.com/user-attachments/assets/2f604d67-6ba4-4769-9bad-470bb86a82d2" width="330" alt="Geek at a computer"/>
 
 I'm **Ismail**, an AI engineer and researcher based in **Paris, France** 🇫🇷 (originally from Fès, Morocco 🇲🇦) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Airplane%20Departure.png" width="22" height="22" alt="" align="absmiddle"/>
 
@@ -37,7 +38,7 @@ I learn by building. I reimplement papers from scratch (vision transformers, GPT
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Comet.png" width="22" height="22" alt="" align="absmiddle"/> Exploring **multimodal learning** (vision + language) and **real-time generative audio**
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="22" height="22" alt="" align="absmiddle"/> Motto: *build it from scratch first, reach for the library second.*
 
-<img src="https://github.com/user-attachments/assets/2f604d67-6ba4-4769-9bad-470bb86a82d2" width="100%" alt="Geek animation">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Crystal%20Ball.png" width="32" height="32" alt="" align="absmiddle"/> What I Build
