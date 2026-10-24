@@ -26,7 +26,8 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="32" height="32" alt="" align="absmiddle"/> <span dir="rtl">نبذة عني</span>
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="330" alt="Coding"/>
+<img align="right" src="https://github.com/user-attachments/assets/2f604d67-6ba4-4769-9bad-470bb86a82d2" width="330" alt="Geek at a computer"/>
+
 
 <p dir="rtl" align="right">أنا <b>إسماعيل</b>، مهندس وباحث في الذكاء الاصطناعي مقيم في <b>باريس، فرنسا</b> 🇫🇷 (وأصلي من مدينة فاس، المغرب 🇲🇦) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Airplane%20Departure.png" width="22" height="22" alt="" align="absmiddle"/></p>
 
