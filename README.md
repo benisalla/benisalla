@@ -37,7 +37,7 @@ I learn by building. I reimplement papers from scratch (vision transformers, GPT
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Comet.png" width="22" height="22" alt="" align="absmiddle"/> Exploring **multimodal learning** (vision + language) and **real-time generative audio**
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="22" height="22" alt="" align="absmiddle"/> Motto: *build it from scratch first, reach for the library second.*
 
-<img src="https://github.com/user-attachments/assets/7951d7fd-32e7-4444-9be1-5af4965374ae.gif" width="100%">
+<img src="https://github.com/user-attachments/assets/2f604d67-6ba4-4769-9bad-470bb86a82d2" width="100%" alt="Geek animation">
 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Crystal%20Ball.png" width="32" height="32" alt="" align="absmiddle"/> What I Build
